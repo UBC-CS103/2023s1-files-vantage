@@ -1,505 +1,505 @@
-Station number,Station name,Address,City,Province,Latitude,Longitude,Local land use,Station type,Concentration,Units,Station details,Report year
-100103,NEW WESTMINSTER,Sherbrooke and Columbian Streets,New Westminster,British Columbia,49.227045,-122.894487,Residential,General population exposure,6.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100103&GoCTemplateCulture=en-CA
+ï»¿Station number,Station name,Address,City,Province,Latitude,Longitude,Local land use,Station type,Concentration,Units,Station details,Report year
+100103,NEW WESTMINSTER,Sherbrooke and Columbian Streets,New Westminster,British Columbia,49.227045,-122.894487,Residential,General population exposure,6.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100103&GoCTemplateCulture=en-CA
 ",2019
-100110,KENSINGTON PARK,700 Hammarskjold Drive,Burnaby,British Columbia,49.279214,-122.970707,Residential,Transportation source influenced,4.5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100110&GoCTemplateCulture=en-CA
+100110,KENSINGTON PARK,700 Hammarskjold Drive,Burnaby,British Columbia,49.279214,-122.970707,Residential,Transportation source influenced,4.5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100110&GoCTemplateCulture=en-CA
 ",2019
-100111,ROCKY POINT PARK,Moody & Esplanade St.,Port Moody,British Columbia,49.280893,-122.849291,Water,General population exposure,4.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100111&GoCTemplateCulture=en-CA
+100111,ROCKY POINT PARK,Moody & Esplanade St.,Port Moody,British Columbia,49.280893,-122.849291,Water,General population exposure,4.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100111&GoCTemplateCulture=en-CA
 ",2019
-100119,BURNABY SOUTH,5455 Rumble Street,Burnaby,British Columbia,49.21519,-122.985666,Residential,General population exposure,5.1,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100119&GoCTemplateCulture=en-CA
+100119,BURNABY SOUTH,5455 Rumble Street,Burnaby,British Columbia,49.21519,-122.985666,Residential,General population exposure,5.1,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100119&GoCTemplateCulture=en-CA
 ",2019
-100121,SECOND NARROWS,75 Riverside Dr.,North Vancouver,British Columbia,49.301472,-123.020417,Industrial,Point source influenced,6.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100121&GoCTemplateCulture=en-CA
+100121,SECOND NARROWS,75 Riverside Dr.,North Vancouver,British Columbia,49.301472,-123.020417,Industrial,Point source influenced,6.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100121&GoCTemplateCulture=en-CA
 ",2019
-100125,NORTH DELTA,8544 116th St.,Delta,British Columbia,49.158348,-122.90173,Residential,General population exposure,5.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100125&GoCTemplateCulture=en-CA
+100125,NORTH DELTA,8544 116th St.,Delta,British Columbia,49.158348,-122.90173,Residential,General population exposure,5.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100125&GoCTemplateCulture=en-CA
 ",2019
-100127,SURREY EAST,72nd Ave. and 190 St.,Surrey,British Columbia,49.132928,-122.694224,Residential,Transportation source influenced,5.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100127&GoCTemplateCulture=en-CA
+100127,SURREY EAST,72nd Ave. and 190 St.,Surrey,British Columbia,49.132928,-122.694224,Residential,Transportation source influenced,5.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100127&GoCTemplateCulture=en-CA
 ",2019
-100128,RICHMOND SOUTH,10371 Aragon Rd,Richmond,British Columbia,49.141437,-123.108215,Residential,General population exposure,5.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100128&GoCTemplateCulture=en-CA
+100128,RICHMOND SOUTH,10371 Aragon Rd,Richmond,British Columbia,49.141437,-123.108215,Residential,General population exposure,5.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100128&GoCTemplateCulture=en-CA
 ",2019
-100132,MAHON PARK,16th St. & Jones Ave,North Vancouver,British Columbia,49.323994,-123.083496,Residential,General population exposure,4.5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100132&GoCTemplateCulture=en-CA
+100132,MAHON PARK,16th St. & Jones Ave,North Vancouver,British Columbia,49.323994,-123.083496,Residential,General population exposure,4.5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100132&GoCTemplateCulture=en-CA
 ",2019
-100134,VANCOUVER INTL. AIRPORT,3153 Templeton Street,Richmond,British Columbia,49.186265,-123.152422,Commercial,General population exposure,5.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100134&GoCTemplateCulture=en-CA
+100134,VANCOUVER INTL. AIRPORT,3153 Templeton Street,Richmond,British Columbia,49.186265,-123.152422,Commercial,General population exposure,5.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100134&GoCTemplateCulture=en-CA
 ",2019
-100138,HORSESHOE BAY,6350 Marine Drive,Vancouver,British Columbia,49.36861,-123.276741,Residential,Transportation source influenced,3.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100138&GoCTemplateCulture=en-CA
+100138,HORSESHOE BAY,6350 Marine Drive,Vancouver,British Columbia,49.36861,-123.276741,Residential,Transportation source influenced,3.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100138&GoCTemplateCulture=en-CA
 ",2019
-100140,TSAWWASSEN,411 Milsom Wynd,Delta,British Columbia,49.009877,-123.081997,Residential,General population exposure,4.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100140&GoCTemplateCulture=en-CA
+100140,TSAWWASSEN,411 Milsom Wynd,Delta,British Columbia,49.009877,-123.081997,Residential,General population exposure,4.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100140&GoCTemplateCulture=en-CA
 ",2019
-100141,ROADSIDE - CLARK DRIVE,"1290 East 11th Ave,",Vancouver,British Columbia,49.260267,-123.077776,Residential,Transportation source influenced,7.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100141&GoCTemplateCulture=en-CA
+100141,ROADSIDE - CLARK DRIVE,"1290 East 11th Ave,",Vancouver,British Columbia,49.260267,-123.077776,Residential,Transportation source influenced,7.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100141&GoCTemplateCulture=en-CA
 ",2019
-100143,AGASSIZ,7170 Cheam Avenue,Agassiz,British Columbia,49.238008,-121.762264,Residential,General population exposure,5.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100143&GoCTemplateCulture=en-CA
+100143,AGASSIZ,7170 Cheam Avenue,Agassiz,British Columbia,49.238008,-121.762264,Residential,General population exposure,5.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100143&GoCTemplateCulture=en-CA
 ",2019
-100202,PRG PLAZA 400,"Plaza 400, 1011 4th Avenue",Prince George,British Columbia,53.91472,-122.74194,Residential,Point source influenced,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100202&GoCTemplateCulture=en-CA
+100202,PRG PLAZA 400,"Plaza 400, 1011 4th Avenue",Prince George,British Columbia,53.91472,-122.74194,Residential,Point source influenced,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100202&GoCTemplateCulture=en-CA
 ",2019
-100304,VICTORIA TOPAZ,"Sj Willis School, 923 Topaz Ave.",Victoria,British Columbia,48.441942,-123.363165,Residential,Transportation source influenced,6.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100304&GoCTemplateCulture=en-CA
+100304,VICTORIA TOPAZ,"Sj Willis School, 923 Topaz Ave.",Victoria,British Columbia,48.441942,-123.363165,Residential,Transportation source influenced,6.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100304&GoCTemplateCulture=en-CA
 ",2019
-100308,COLWOOD CITY HALL,3300 Wishart Road,Victoria,British Columbia,48.42369,-123.49432,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100308&GoCTemplateCulture=en-CA
+100308,COLWOOD CITY HALL,3300 Wishart Road,Victoria,British Columbia,48.42369,-123.49432,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100308&GoCTemplateCulture=en-CA
 ",2019
-100401,FEDERAL BUILDING,317 Seymour St.,Kamloops,British Columbia,50.67477,-120.334016,Residential,General population exposure,7.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100401&GoCTemplateCulture=en-CA
+100401,FEDERAL BUILDING,317 Seymour St.,Kamloops,British Columbia,50.67477,-120.334016,Residential,General population exposure,7.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100401&GoCTemplateCulture=en-CA
 ",2019
-100402,KAMLOOPS BROCKLEHURST,1578 Tranquille Road,Kamloops,British Columbia,50.7025,-120.394,Water,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100402&GoCTemplateCulture=en-CA
+100402,KAMLOOPS BROCKLEHURST,1578 Tranquille Road,Kamloops,British Columbia,50.7025,-120.394,Water,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100402&GoCTemplateCulture=en-CA
 ",2019
-100701,KELOWNA COLLEGE,3333 College Way,Kelowna,British Columbia,49.862336,-119.477367,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100701&GoCTemplateCulture=en-CA
+100701,KELOWNA COLLEGE,3333 College Way,Kelowna,British Columbia,49.862336,-119.477367,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100701&GoCTemplateCulture=en-CA
 ",2019
-101003,ABBOTSFORD,32995 Bevan Ave.,Abbotsford,British Columbia,49.04258,-122.30982,Residential,General population exposure,5.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101003&GoCTemplateCulture=en-CA
+101003,ABBOTSFORD,32995 Bevan Ave.,Abbotsford,British Columbia,49.04258,-122.30982,Residential,General population exposure,5.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101003&GoCTemplateCulture=en-CA
 ",2019
-101004,ABBOTSFORD AIRPORT,31790 Walmsley Avenue,Abbotsford,British Columbia,49.0325,-122.35306,Industrial,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101004&GoCTemplateCulture=en-CA
+101004,ABBOTSFORD AIRPORT,31790 Walmsley Avenue,Abbotsford,British Columbia,49.0325,-122.35306,Industrial,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101004&GoCTemplateCulture=en-CA
 ",2019
-101005,ABBOTSFORD AIRPORT-2,1073 Columbia Street,Abbotsford,British Columbia,49.021554,-122.326523,Agricultural,General population exposure,5.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101005&GoCTemplateCulture=en-CA
+101005,ABBOTSFORD AIRPORT-2,1073 Columbia Street,Abbotsford,British Columbia,49.021554,-122.326523,Agricultural,General population exposure,5.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101005&GoCTemplateCulture=en-CA
 ",2019
-10102,WATER STREET POST OFFICE,354 Water Street,St Johns,Newfoundland and Labrador,47.56038,-52.71147,Residential,General population exposure,4.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0210102&GoCTemplateCulture=en-CA
+10102,WATER STREET POST OFFICE,354 Water Street,St Johns,Newfoundland and Labrador,47.56038,-52.71147,Residential,General population exposure,4.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0210102&GoCTemplateCulture=en-CA
 ",2019
-101101,CHILLIWACK AIRPORT,46360 Airport Road,Chilliwack,British Columbia,49.155848,-121.940279,Residential,General population exposure,6.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101101&GoCTemplateCulture=en-CA
+101101,CHILLIWACK AIRPORT,46360 Airport Road,Chilliwack,British Columbia,49.155848,-121.940279,Residential,General population exposure,6.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101101&GoCTemplateCulture=en-CA
 ",2019
-101202,PITT MEADOWS,18477 Dewdny Trunk,Pitt Meadows,British Columbia,49.245233,-122.70889,Agricultural,General population exposure,5.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101202&GoCTemplateCulture=en-CA
+101202,PITT MEADOWS,18477 Dewdny Trunk,Pitt Meadows,British Columbia,49.245233,-122.70889,Agricultural,General population exposure,5.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101202&GoCTemplateCulture=en-CA
 ",2019
-101301,LANGLEY CENTRAL,23752 52nd Avenue,Langley,British Columbia,49.09561,-122.567104,Residential,General population exposure,5.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101301&GoCTemplateCulture=en-CA
+101301,LANGLEY CENTRAL,23752 52nd Avenue,Langley,British Columbia,49.09561,-122.567104,Residential,General population exposure,5.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101301&GoCTemplateCulture=en-CA
 ",2019
-101401,HOPE AIRPORT,62715 Airport Road,Hope,British Columbia,49.369887,-121.49912,Forested,Regional background,4.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101401&GoCTemplateCulture=en-CA
+101401,HOPE AIRPORT,62715 Airport Road,Hope,British Columbia,49.369887,-121.49912,Forested,Regional background,4.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101401&GoCTemplateCulture=en-CA
 ",2019
-101601,SQU GOVERNMENT BUILDING,38075 2nd Avenue,Squamish,British Columbia,49.700098,-123.154216,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101601&GoCTemplateCulture=en-CA
+101601,SQU GOVERNMENT BUILDING,38075 2nd Avenue,Squamish,British Columbia,49.700098,-123.154216,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101601&GoCTemplateCulture=en-CA
 ",2019
-101603,SQUAMISH ELEMENTARY,38370 Buckley Avenue,Squamish,British Columbia,49.70516,-123.15133,Commercial,General population exposure,4.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101603&GoCTemplateCulture=en-CA
+101603,SQUAMISH ELEMENTARY,38370 Buckley Avenue,Squamish,British Columbia,49.70516,-123.15133,Commercial,General population exposure,4.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101603&GoCTemplateCulture=en-CA
 ",2019
-101701,QUESNEL SENIOR SECONDARY,585 Callanan Street,Quesnel,British Columbia,52.981686,-122.493227,Residential,Point source influenced,8.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101701&GoCTemplateCulture=en-CA
+101701,QUESNEL SENIOR SECONDARY,585 Callanan Street,Quesnel,British Columbia,52.981686,-122.493227,Residential,Point source influenced,8.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101701&GoCTemplateCulture=en-CA
 ",2019
-101904,CRANBROOK MURIEL BAXTER,"Corner of 3rd Street S., 20th Avenue S.",Cranbrook,British Columbia,49.302582,-115.451314,Forested,Regional background,5.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101904&GoCTemplateCulture=en-CA
+101904,CRANBROOK MURIEL BAXTER,"Corner of 3rd Street S., 20th Avenue S.",Cranbrook,British Columbia,49.302582,-115.451314,Forested,Regional background,5.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02101904&GoCTemplateCulture=en-CA
 ",2019
-102102,LABIEUX ROAD - GOVBLDG,2080a Labieux Road,Nanaimo,British Columbia,49.20083,-123.99389,Parks,Transportation source influenced,4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102102&GoCTemplateCulture=en-CA
+102102,LABIEUX ROAD - GOVBLDG,2080a Labieux Road,Nanaimo,British Columbia,49.20083,-123.99389,Parks,Transportation source influenced,4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102102&GoCTemplateCulture=en-CA
 ",2019
-102301,CRANBERRY LAKE,Wildlife Sanctuary,Powell River,British Columbia,49.866905,-124.521819,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102301&GoCTemplateCulture=en-CA
+102301,CRANBERRY LAKE,Wildlife Sanctuary,Powell River,British Columbia,49.866905,-124.521819,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102301&GoCTemplateCulture=en-CA
 ",2019
-102302,WILDWOOD MOTORS,6105 Lund St.,Powell River,British Columbia,49.886894,-124.558104,Residential,Transportation source influenced,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102302&GoCTemplateCulture=en-CA
+102302,WILDWOOD MOTORS,6105 Lund St.,Powell River,British Columbia,49.886894,-124.558104,Residential,Transportation source influenced,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102302&GoCTemplateCulture=en-CA
 ",2019
-102401,SMITHERS ST JOSEPHS,4020 Broadway Avenue,Smithers,British Columbia,54.783308,-127.177324,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102401&GoCTemplateCulture=en-CA
+102401,SMITHERS ST JOSEPHS,4020 Broadway Avenue,Smithers,British Columbia,54.783308,-127.177324,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102401&GoCTemplateCulture=en-CA
 ",2019
-102402,SMITHERS MUHEIM MEMORIAL,,Smithers,British Columbia,54.7785,-127.168542,Residential,General population exposure,8.5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102402&GoCTemplateCulture=en-CA
+102402,SMITHERS MUHEIM MEMORIAL,,Smithers,British Columbia,54.7785,-127.168542,Residential,General population exposure,8.5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102402&GoCTemplateCulture=en-CA
 ",2019
-102503,TERRACE SKEENA MIDDLE SCHOOL,3411 Munroe Street,Terrace,British Columbia,54.52167,-128.6075,Residential,General population exposure,5.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102503&GoCTemplateCulture=en-CA
+102503,TERRACE SKEENA MIDDLE SCHOOL,3411 Munroe Street,Terrace,British Columbia,54.52167,-128.6075,Residential,General population exposure,5.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102503&GoCTemplateCulture=en-CA
 ",2019
-102602,PORT ALBERNI ELEMENTARY,4645 Helen Street,Port Alberni,British Columbia,49.261014,-124.806628,Residential,Transportation source influenced,8.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102602&GoCTemplateCulture=en-CA
+102602,PORT ALBERNI ELEMENTARY,4645 Helen Street,Port Alberni,British Columbia,49.261014,-124.806628,Residential,Transportation source influenced,8.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102602&GoCTemplateCulture=en-CA
 ",2019
-102701,WILLIAMS LAKE COLUMNEETZA SCHOOL,1045 Western Avenue,Williams Lake,British Columbia,52.14428,-122.150391,Residential,General population exposure,7.1,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102701&GoCTemplateCulture=en-CA
+102701,WILLIAMS LAKE COLUMNEETZA SCHOOL,1045 Western Avenue,Williams Lake,British Columbia,52.14428,-122.150391,Residential,General population exposure,7.1,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102701&GoCTemplateCulture=en-CA
 ",2019
-102801,ELK FALLS DOGWOOD,Adjacent to 660 Westmere,Campbell River,British Columbia,50.018425,-125.24844,Residential,General population exposure,6.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102801&GoCTemplateCulture=en-CA
+102801,ELK FALLS DOGWOOD,Adjacent to 660 Westmere,Campbell River,British Columbia,50.018425,-125.24844,Residential,General population exposure,6.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02102801&GoCTemplateCulture=en-CA
 ",2019
-10301,CREDIT UNION,Brook Street,Corner Brook,Newfoundland and Labrador,48.949479,-57.945387,Industrial,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0210301&GoCTemplateCulture=en-CA
+10301,CREDIT UNION,Brook Street,Corner Brook,Newfoundland and Labrador,48.949479,-57.945387,Industrial,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0210301&GoCTemplateCulture=en-CA
 ",2019
-103202,GOLDEN HOSPITAL HELIPAD,835 9th Avenue South,Golden,British Columbia,51.297497,-116.966853,Residential,General population exposure,8.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02103202&GoCTemplateCulture=en-CA
+103202,GOLDEN HOSPITAL HELIPAD,835 9th Avenue South,Golden,British Columbia,51.297497,-116.966853,Residential,General population exposure,8.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02103202&GoCTemplateCulture=en-CA
 ",2019
-103502,CASTLEGAR ZINIO PLACE,801 9th Avenue,Castlegar,British Columbia,49.317698,-117.661527,Residential,Point source influenced,6.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02103502&GoCTemplateCulture=en-CA
+103502,CASTLEGAR ZINIO PLACE,801 9th Avenue,Castlegar,British Columbia,49.317698,-117.661527,Residential,Point source influenced,6.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02103502&GoCTemplateCulture=en-CA
 ",2019
-103602,MISSION,32964 9th Avenue,Mission,British Columbia,49.14149,-122.311078,Residential,General population exposure,5.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02103602&GoCTemplateCulture=en-CA
+103602,MISSION,32964 9th Avenue,Mission,British Columbia,49.14149,-122.311078,Residential,General population exposure,5.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02103602&GoCTemplateCulture=en-CA
 ",2019
-103901,RIVERLODGE,651 Columbia Ave W,Kitimat,British Columbia,54.05389,-128.671436,Residential,General population exposure,4.5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02103901&GoCTemplateCulture=en-CA
+103901,RIVERLODGE,651 Columbia Ave W,Kitimat,British Columbia,54.05389,-128.671436,Residential,General population exposure,4.5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02103901&GoCTemplateCulture=en-CA
 ",2019
-103904,KITIMAT WHITESAIL,1332 Lahakas Blvd North,Kitimat,British Columbia,54.066909,-128.639131,Residential,General population exposure,4.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02103904&GoCTemplateCulture=en-CA
+103904,KITIMAT WHITESAIL,1332 Lahakas Blvd North,Kitimat,British Columbia,54.066909,-128.639131,Residential,General population exposure,4.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02103904&GoCTemplateCulture=en-CA
 ",2019
-103905,KITIMAT HAISLA VILLAGE,347 Haisla Avenue,Kitimat,British Columbia,53.973228,-128.650768,Industrial,Regional background,4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02103905&GoCTemplateCulture=en-CA
+103905,KITIMAT HAISLA VILLAGE,347 Haisla Avenue,Kitimat,British Columbia,53.973228,-128.650768,Industrial,Regional background,4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02103905&GoCTemplateCulture=en-CA
 ",2019
-104003,VERNON SCIENCE CENTRE,2704 Highway 6,Vernon,British Columbia,50.260617,-119.270723,Residential,Transportation source influenced,8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02104003&GoCTemplateCulture=en-CA
+104003,VERNON SCIENCE CENTRE,2704 Highway 6,Vernon,British Columbia,50.260617,-119.270723,Residential,Transportation source influenced,8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02104003&GoCTemplateCulture=en-CA
 ",2019
-10401,MOUNT PEARL,Old Placentia Road,Mount Pearl,Newfoundland and Labrador,47.50513,-52.79476,Residential,General population exposure,4.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0210401&GoCTemplateCulture=en-CA
+10401,MOUNT PEARL,Old Placentia Road,Mount Pearl,Newfoundland and Labrador,47.50513,-52.79476,Residential,General population exposure,4.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0210401&GoCTemplateCulture=en-CA
 ",2019
-104101,CITY HALL,"2217 4th St. , City Hall",Grand Forks,British Columbia,49.031168,-118.439088,Residential,General population exposure,8.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02104101&GoCTemplateCulture=en-CA
+104101,CITY HALL,"2217 4th St. , City Hall",Grand Forks,British Columbia,49.031168,-118.439088,Residential,General population exposure,8.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02104101&GoCTemplateCulture=en-CA
 ",2019
-104801,DUNCAN DEYKIN AVENUE,6364 Deykin Avenue,Duncan,British Columbia,48.80255,-123.646402,Residential,General population exposure,7.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02104801&GoCTemplateCulture=en-CA
+104801,DUNCAN DEYKIN AVENUE,6364 Deykin Avenue,Duncan,British Columbia,48.80255,-123.646402,Residential,General population exposure,7.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02104801&GoCTemplateCulture=en-CA
 ",2019
-104803,DUNCAN CAIRNSMORE,490 Cairnsmore Street,Duncan,British Columbia,48.784854,-123.715846,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02104803&GoCTemplateCulture=en-CA
+104803,DUNCAN CAIRNSMORE,490 Cairnsmore Street,Duncan,British Columbia,48.784854,-123.715846,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02104803&GoCTemplateCulture=en-CA
 ",2019
-104804,DUNCAN COLLEGE STREET,1050 College Street,Duncan,British Columbia,48.786114,-123.717307,Residential,General population exposure,7.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02104804&GoCTemplateCulture=en-CA
+104804,DUNCAN COLLEGE STREET,1050 College Street,Duncan,British Columbia,48.786114,-123.717307,Residential,General population exposure,7.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02104804&GoCTemplateCulture=en-CA
 ",2019
-105001,MEADOW PARK,Meadow Park,Whistler,British Columbia,50.144285,-122.960402,Parks,General population exposure,4.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02105001&GoCTemplateCulture=en-CA
+105001,MEADOW PARK,Meadow Park,Whistler,British Columbia,50.144285,-122.960402,Parks,General population exposure,4.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02105001&GoCTemplateCulture=en-CA
 ",2019
-10501,ABITIBI SITE,Scott Avenue,Grand Falls-Windsor,Newfoundland and Labrador,48.92696,-55.65966,Industrial,General population exposure,3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0210501&GoCTemplateCulture=en-CA
+10501,ABITIBI SITE,Scott Avenue,Grand Falls-Windsor,Newfoundland and Labrador,48.92696,-55.65966,Industrial,General population exposure,3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0210501&GoCTemplateCulture=en-CA
 ",2019
-105101,FIREHALL,"Firehall, 3382 11 Street",Houston,British Columbia,54.398594,-126.646833,Residential,General population exposure,10.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02105101&GoCTemplateCulture=en-CA
+105101,FIREHALL,"Firehall, 3382 11 Street",Houston,British Columbia,54.398594,-126.646833,Residential,General population exposure,10.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02105101&GoCTemplateCulture=en-CA
 ",2019
-105201,FIRE CENTRE,"#8 4th Ave., Fire Centre",Burns Lake,British Columbia,54.230731,-125.764354,Residential,Transportation source influenced,8.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02105201&GoCTemplateCulture=en-CA
+105201,FIRE CENTRE,"#8 4th Ave., Fire Centre",Burns Lake,British Columbia,54.230731,-125.764354,Residential,Transportation source influenced,8.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02105201&GoCTemplateCulture=en-CA
 ",2019
-105301,LANGDALE ELEMENTARY,1551 Johnson Rd.,Langdale,British Columbia,49.438848,-123.479185,Residential,General population exposure,3.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02105301&GoCTemplateCulture=en-CA
+105301,LANGDALE ELEMENTARY,1551 Johnson Rd.,Langdale,British Columbia,49.438848,-123.479185,Residential,General population exposure,3.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02105301&GoCTemplateCulture=en-CA
 ",2019
-105504,FORT ST JOHN LEARNING CENTRE,10511 99 Avenue,Fort St John,British Columbia,56.24473,-120.8561,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02105504&GoCTemplateCulture=en-CA
+105504,FORT ST JOHN LEARNING CENTRE,10511 99 Avenue,Fort St John,British Columbia,56.24473,-120.8561,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02105504&GoCTemplateCulture=en-CA
 ",2019
-10602,MACPHERSON AVENUE,Macpherson Ave,Corner Brook,Newfoundland and Labrador,48.95224,-57.92207,Residential,General population exposure,6.1,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0210602&GoCTemplateCulture=en-CA
+10602,MACPHERSON AVENUE,Macpherson Ave,Corner Brook,Newfoundland and Labrador,48.95224,-57.92207,Residential,General population exposure,6.1,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0210602&GoCTemplateCulture=en-CA
 ",2019
-106101,VALEMOUNT FIREHALL,1380 5th Ave.,Valemount,British Columbia,52.832459,-119.269821,Residential,Regional background,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02106101&GoCTemplateCulture=en-CA
+106101,VALEMOUNT FIREHALL,1380 5th Ave.,Valemount,British Columbia,52.832459,-119.269821,Residential,Regional background,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02106101&GoCTemplateCulture=en-CA
 ",2019
-106700,CROFTON ESCARPMENT WAY,1821 Escarpment Way,Crofton,British Columbia,48.838,-123.6552,Forested,Regional background,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02106700&GoCTemplateCulture=en-CA
+106700,CROFTON ESCARPMENT WAY,1821 Escarpment Way,Crofton,British Columbia,48.838,-123.6552,Forested,Regional background,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02106700&GoCTemplateCulture=en-CA
 ",2019
-106702,1821 ESCARPMENT WAY,1427 Georgia Park Heights Rd,Crofton,British Columbia,48.849649,-123.637031,Forested,Point source influenced,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02106702&GoCTemplateCulture=en-CA
+106702,1821 ESCARPMENT WAY,1427 Georgia Park Heights Rd,Crofton,British Columbia,48.849649,-123.637031,Forested,Point source influenced,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02106702&GoCTemplateCulture=en-CA
 ",2019
-106900,VANDERHOOF BAM,2441 Bute Road,Vanderhoof,British Columbia,54.016516,-124.005856,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02106900&GoCTemplateCulture=en-CA
+106900,VANDERHOOF BAM,2441 Bute Road,Vanderhoof,British Columbia,54.016516,-124.005856,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02106900&GoCTemplateCulture=en-CA
 ",2019
-107100,COURTENAY ELEMENTARY SCHOOL,1540 Mcphee Avenue,Courtenay,British Columbia,49.682603,-124.996222,Residential,General population exposure,7.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02107100&GoCTemplateCulture=en-CA
+107100,COURTENAY ELEMENTARY SCHOOL,1540 Mcphee Avenue,Courtenay,British Columbia,49.682603,-124.996222,Residential,General population exposure,7.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02107100&GoCTemplateCulture=en-CA
 ",2019
-10901,MARYSTOWN BURIN,18 Hwy 220 (Main St.),Marystown,Newfoundland and Labrador,47.09899,-55.19852,Residential,Regional background,4.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0210901&GoCTemplateCulture=en-CA
+10901,MARYSTOWN BURIN,18 Hwy 220 (Main St.),Marystown,Newfoundland and Labrador,47.09899,-55.19852,Residential,Regional background,4.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0210901&GoCTemplateCulture=en-CA
 ",2019
-11001,LABRADOR CITY - SMOKEY MOUNTAIN,,Labrador City,Newfoundland and Labrador,52.9518,-66.9156,Commercial,Point source influenced,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0211001&GoCTemplateCulture=en-CA
+11001,LABRADOR CITY - SMOKEY MOUNTAIN,,Labrador City,Newfoundland and Labrador,52.9518,-66.9156,Commercial,Point source influenced,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0211001&GoCTemplateCulture=en-CA
 ",2019
-11002,FIREHALL-LABRADORCITY2,317 Hudson Drive,Labrador City,Newfoundland and Labrador,52.945487,-66.910306,Residential,Point source influenced,2.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0211002&GoCTemplateCulture=en-CA
+11002,FIREHALL-LABRADORCITY2,317 Hudson Drive,Labrador City,Newfoundland and Labrador,52.945487,-66.910306,Residential,Point source influenced,2.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0211002&GoCTemplateCulture=en-CA
 ",2019
-119003,NAPS HOUSE,1091 - 1st Avenue,Whitehorse,Yukon,60.718609,-135.049193,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02119003&GoCTemplateCulture=en-CA
+119003,NAPS HOUSE,1091 - 1st Avenue,Whitehorse,Yukon,60.718609,-135.049193,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02119003&GoCTemplateCulture=en-CA
 ",2019
-119004,STEELE STREET,412 Steele Street,Whitehorse,Yukon,60.71972,-135.05875,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02119004&GoCTemplateCulture=en-CA
+119004,STEELE STREET,412 Steele Street,Whitehorse,Yukon,60.71972,-135.05875,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02119004&GoCTemplateCulture=en-CA
 ",2019
-129003,YELLOWKNIFE,"52nd Ave & 49t Street, Sir John Franklin High School",Yellowknife,Northwest Territories,62.45207,-114.364,Residential,General population exposure,4.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02129003&GoCTemplateCulture=en-CA
+129003,YELLOWKNIFE,"52nd Ave & 49t Street, Sir John Franklin High School",Yellowknife,Northwest Territories,62.45207,-114.364,Residential,General population exposure,4.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02129003&GoCTemplateCulture=en-CA
 ",2019
-129102,NORMAN WELLS NW REGIONAL OFFICE,#7 Forestry Road N. Wells,Norman Wells,Northwest Territories,65.27926,-126.813057,Residential,Regional background,5.1,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02129102&GoCTemplateCulture=en-CA
+129102,NORMAN WELLS NW REGIONAL OFFICE,#7 Forestry Road N. Wells,Norman Wells,Northwest Territories,65.27926,-126.813057,Residential,Regional background,5.1,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02129102&GoCTemplateCulture=en-CA
 ",2019
-129202,SAMUEL HEARNE SCHOOL,Kingmingya Road / Block 17,Inuvik,Northwest Territories,68.360052,-133.727206,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02129202&GoCTemplateCulture=en-CA
+129202,SAMUEL HEARNE SCHOOL,Kingmingya Road / Block 17,Inuvik,Northwest Territories,68.360052,-133.727206,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02129202&GoCTemplateCulture=en-CA
 ",2019
-129203,INUVIK,"Bompas Road (Block21, Lot 4084)",Inuvik,Northwest Territories,68.35702,-133.714057,Residential,General population exposure,4.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02129203&GoCTemplateCulture=en-CA
+129203,INUVIK,"Bompas Road (Block21, Lot 4084)",Inuvik,Northwest Territories,68.35702,-133.714057,Residential,General population exposure,4.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02129203&GoCTemplateCulture=en-CA
 ",2019
-129303,WATERLAB,Water Lab (1307 Federal Road),Iqaluit,Nunavut,63.751619,-68.522433,Commercial,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02129303&GoCTemplateCulture=en-CA
+129303,WATERLAB,Water Lab (1307 Federal Road),Iqaluit,Nunavut,63.751619,-68.522433,Commercial,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02129303&GoCTemplateCulture=en-CA
 ",2019
-129601,FORT SMITH,95 Conibear Crescent,Fort Smith,Northwest Territories,60.00455,-111.893241,Residential,General population exposure,7.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02129601&GoCTemplateCulture=en-CA
+129601,FORT SMITH,95 Conibear Crescent,Fort Smith,Northwest Territories,60.00455,-111.893241,Residential,General population exposure,7.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=02129601&GoCTemplateCulture=en-CA
 ",2019
-20104,CHARLOTTETOWN,3 Brighton Road,Charlottetown,Prince Edward Island,46.233,-63.13667,Residential,Transportation source influenced,8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0220104&GoCTemplateCulture=en-CA
+20104,CHARLOTTETOWN,3 Brighton Road,Charlottetown,Prince Edward Island,46.233,-63.13667,Residential,Transportation source influenced,8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0220104&GoCTemplateCulture=en-CA
 ",2019
-20401,SOUTHAMPTON-Eastern District Agriculture and Forestry,2580 Route 313 (Cardigan Road),Southampton,Prince Edward Island,46.38635,-62.58272,Agricultural,Regional background,4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0220401&GoCTemplateCulture=en-CA
+20401,SOUTHAMPTON-Eastern District Agriculture and Forestry,2580 Route 313 (Cardigan Road),Southampton,Prince Edward Island,46.38635,-62.58272,Agricultural,Regional background,4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0220401&GoCTemplateCulture=en-CA
 ",2019
-30113,JOHNSTON BUILDING,1672 Granville Street,Halifax,Nova Scotia,44.64711,-63.57366,Residential,General population exposure,5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0230113&GoCTemplateCulture=en-CA
+30113,JOHNSTON BUILDING,1672 Granville Street,Halifax,Nova Scotia,44.64711,-63.57366,Residential,General population exposure,5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0230113&GoCTemplateCulture=en-CA
 ",2019
-30120,LAKE MAJOR,341 Cherrybrook Road,Halifax,Nova Scotia,44.719799,-63.480754,Forested,General population exposure,4.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0230120&GoCTemplateCulture=en-CA
+30120,LAKE MAJOR,341 Cherrybrook Road,Halifax,Nova Scotia,44.719799,-63.480754,Forested,General population exposure,4.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0230120&GoCTemplateCulture=en-CA
 ",2019
-30201,PORT HAWKESBURY,23 Embree Street,Port Hawkesburry,Nova Scotia,45.614161,-61.362356,Residential,Point source influenced,5.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0230201&GoCTemplateCulture=en-CA
+30201,PORT HAWKESBURY,23 Embree Street,Port Hawkesburry,Nova Scotia,45.614161,-61.362356,Residential,Point source influenced,5.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0230201&GoCTemplateCulture=en-CA
 ",2019
-30310,WELTON STREET SYDNEY,71 Welton Street,Sydney,Nova Scotia,46.14222,-60.17252,Residential,General population exposure,4.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0230310&GoCTemplateCulture=en-CA
+30310,WELTON STREET SYDNEY,71 Welton Street,Sydney,Nova Scotia,46.14222,-60.17252,Residential,General population exposure,4.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0230310&GoCTemplateCulture=en-CA
 ",2019
-30701,AYLESFORD MOUNTAIN,"1009 Mountain Brow Road, Kings County",Aylesford,Nova Scotia,45.07267,-64.84033,Forested,Regional background,5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0230701&GoCTemplateCulture=en-CA
+30701,AYLESFORD MOUNTAIN,"1009 Mountain Brow Road, Kings County",Aylesford,Nova Scotia,45.07267,-64.84033,Forested,Regional background,5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0230701&GoCTemplateCulture=en-CA
 ",2019
-30901,PICTOU,91 Beeches Road,Pictou,Nova Scotia,45.68167,-62.69664,Residential,General population exposure,5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0230901&GoCTemplateCulture=en-CA
+30901,PICTOU,91 Beeches Road,Pictou,Nova Scotia,45.68167,-62.69664,Residential,General population exposure,5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0230901&GoCTemplateCulture=en-CA
 ",2019
-31101,KENTVILLE - AGRI-FOOD CANADA,32 Main Street,Kentville,Nova Scotia,45.06725,-64.47743,Agricultural,General population exposure,5.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0231101&GoCTemplateCulture=en-CA
+31101,KENTVILLE - AGRI-FOOD CANADA,32 Main Street,Kentville,Nova Scotia,45.06725,-64.47743,Agricultural,General population exposure,5.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0231101&GoCTemplateCulture=en-CA
 ",2019
-40103,FREDERICTON-ABERDEEN,437 Aberdeen Street,Fredericton,New Brunswick,45.957318,-66.646719,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0240103&GoCTemplateCulture=en-CA
+40103,FREDERICTON-ABERDEEN,437 Aberdeen Street,Fredericton,New Brunswick,45.957318,-66.646719,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0240103&GoCTemplateCulture=en-CA
 ",2019
-40104,FREDERICTON-NEEDHAM ST.,486 Needham Street,Fredericton,New Brunswick,45.957289,-66.645236,Residential,General population exposure,4.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0240104&GoCTemplateCulture=en-CA
+40104,FREDERICTON-NEEDHAM ST.,486 Needham Street,Fredericton,New Brunswick,45.957289,-66.645236,Residential,General population exposure,4.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0240104&GoCTemplateCulture=en-CA
 ",2019
-40203,FOREST HILLS,Mountain Road,Saint John,New Brunswick,45.308762,-66.008384,Residential,Point source influenced,5.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0240203&GoCTemplateCulture=en-CA
+40203,FOREST HILLS,Mountain Road,Saint John,New Brunswick,45.308762,-66.008384,Residential,Point source influenced,5.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0240203&GoCTemplateCulture=en-CA
 ",2019
-40207,WEST SIDE,476 Lancaster Avenue W.,Saint John,New Brunswick,45.252898,-66.080065,Residential,Point source influenced,5.5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0240207&GoCTemplateCulture=en-CA
+40207,WEST SIDE,476 Lancaster Avenue W.,Saint John,New Brunswick,45.252898,-66.080065,Residential,Point source influenced,5.5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0240207&GoCTemplateCulture=en-CA
 ",2019
-40208,CHAMPLAIN HEIGHTS SCHOOL,111 Champlain Drive,Saint John,New Brunswick,45.291218,-66.00305,Residential,Point source influenced,4.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0240208&GoCTemplateCulture=en-CA
+40208,CHAMPLAIN HEIGHTS SCHOOL,111 Champlain Drive,Saint John,New Brunswick,45.291218,-66.00305,Residential,Point source influenced,4.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0240208&GoCTemplateCulture=en-CA
 ",2019
-40209,CASTLE STREET-SAINT JOHN,8 Castle Street,Saint John,New Brunswick,45.28028,-66.05611,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0240209&GoCTemplateCulture=en-CA
+40209,CASTLE STREET-SAINT JOHN,8 Castle Street,Saint John,New Brunswick,45.28028,-66.05611,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0240209&GoCTemplateCulture=en-CA
 ",2019
-40302,MONCTON,5 Thanet Street,Moncton,New Brunswick,46.101578,-64.789661,Residential,Transportation source influenced,4.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0240302&GoCTemplateCulture=en-CA
+40302,MONCTON,5 Thanet Street,Moncton,New Brunswick,46.101578,-64.789661,Residential,Transportation source influenced,4.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0240302&GoCTemplateCulture=en-CA
 ",2019
-40901,ST. ANDREWS - HUNTSMAN MARINE SCIENCES CTR.,Brandy Cove Road,Saint Andrews,New Brunswick,45.086912,-67.074036,Parks,General population exposure,4.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0240901&GoCTemplateCulture=en-CA
+40901,ST. ANDREWS - HUNTSMAN MARINE SCIENCES CTR.,Brandy Cove Road,Saint Andrews,New Brunswick,45.086912,-67.074036,Parks,General population exposure,4.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0240901&GoCTemplateCulture=en-CA
 ",2019
-41302,BATHURST,1255 Rough Waters Drive,Bathurst,New Brunswick,47.609693,-65.633509,Residential,General population exposure,5.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0241302&GoCTemplateCulture=en-CA
+41302,BATHURST,1255 Rough Waters Drive,Bathurst,New Brunswick,47.609693,-65.633509,Residential,General population exposure,5.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0241302&GoCTemplateCulture=en-CA
 ",2019
-41501,EDMUNDSTON QUEEN ST.,19 Queen St.,Edmundston,New Brunswick,47.363195,-68.322302,Residential,Point source influenced,8.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0241501&GoCTemplateCulture=en-CA
+41501,EDMUNDSTON QUEEN ST.,19 Queen St.,Edmundston,New Brunswick,47.363195,-68.322302,Residential,Point source influenced,8.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0241501&GoCTemplateCulture=en-CA
 ",2019
-50103,MONTRÉAL-SAINT-JEAN-BAPTISTE,"1050 A, Boul. Saint-Jean-Baptiste",Montréal,Quebec,45.641026,-73.499682,Residential,General population exposure,7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250103&GoCTemplateCulture=en-CA
+50103,MONTRÃ‰AL-SAINT-JEAN-BAPTISTE,"1050 A, Boul. Saint-Jean-Baptiste",MontrÃ©al,Quebec,45.641026,-73.499682,Residential,General population exposure,7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250103&GoCTemplateCulture=en-CA
 ",2019
-50105,MONTRÉAL-DRUMMOND,1212 Rue Drummond,Montréal,Quebec,45.497859,-73.573035,Commercial,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250105&GoCTemplateCulture=en-CA
+50105,MONTRÃ‰AL-DRUMMOND,1212 Rue Drummond,MontrÃ©al,Quebec,45.497859,-73.573035,Commercial,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250105&GoCTemplateCulture=en-CA
 ",2019
-50109,MONTRÉAL-ÉCHANGEUR DÉCARIE,"2495 Duncan / Decarie, Mt-Royal",Montréal,Quebec,45.502648,-73.663913,Industrial,Transportation source influenced,9.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250109&GoCTemplateCulture=en-CA
+50109,MONTRÃ‰AL-Ã‰CHANGEUR DÃ‰CARIE,"2495 Duncan / Decarie, Mt-Royal",MontrÃ©al,Quebec,45.502648,-73.663913,Industrial,Transportation source influenced,9.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250109&GoCTemplateCulture=en-CA
 ",2019
-50110,PARC-PILON,"11280 Boul. Pie IX, Mtl Nord",Montréal,Quebec,45.594576,-73.641535,Residential,Transportation source influenced,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250110&GoCTemplateCulture=en-CA
+50110,PARC-PILON,"11280 Boul. Pie IX, Mtl Nord",MontrÃ©al,Quebec,45.594576,-73.641535,Residential,Transportation source influenced,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250110&GoCTemplateCulture=en-CA
 ",2019
-50113,LAVAL-CHOMEDEY,1160 Boul Pie-IX,Laval,Quebec,45.547463,-73.748317,Residential,General population exposure,7.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250113&GoCTemplateCulture=en-CA
+50113,LAVAL-CHOMEDEY,1160 Boul Pie-IX,Laval,Quebec,45.547463,-73.748317,Residential,General population exposure,7.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250113&GoCTemplateCulture=en-CA
 ",2019
-50119,LONGUEUIL,Face au 1819 Rue Victoria,Longueuil,Quebec,45.52207,-73.4881,Residential,General population exposure,7.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250119&GoCTemplateCulture=en-CA
+50119,LONGUEUIL,Face au 1819 Rue Victoria,Longueuil,Quebec,45.52207,-73.4881,Residential,General population exposure,7.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250119&GoCTemplateCulture=en-CA
 ",2019
-50121,BROSSARD-PARC OCÉANIE,8361 Rue Oceanie - Brossard,Longueuil,Quebec,45.44298,-73.468631,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250121&GoCTemplateCulture=en-CA
+50121,BROSSARD-PARC OCÃ‰ANIE,8361 Rue Oceanie - Brossard,Longueuil,Quebec,45.44298,-73.468631,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250121&GoCTemplateCulture=en-CA
 ",2019
-50122,BROSSARD - PARC SORBONNE,En Face du 8400 Avenue Sorbonne,Brossard,Quebec,45.448663,-73.480819,Residential,General population exposure,6.5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250122&GoCTemplateCulture=en-CA
+50122,BROSSARD - PARC SORBONNE,En Face du 8400 Avenue Sorbonne,Brossard,Quebec,45.448663,-73.480819,Residential,General population exposure,6.5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250122&GoCTemplateCulture=en-CA
 ",2019
-50126,MONTRÉAL-SAINTE-ANNE DE BELLEVUE,20965 Ch. Sainte-Marie,Montréal,Quebec,45.426542,-73.928929,Residential,General population exposure,5.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250126&GoCTemplateCulture=en-CA
+50126,MONTRÃ‰AL-SAINTE-ANNE DE BELLEVUE,20965 Ch. Sainte-Marie,MontrÃ©al,Quebec,45.426542,-73.928929,Residential,General population exposure,5.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250126&GoCTemplateCulture=en-CA
 ",2019
-50128,MONTRÉAL-AÉROPORT DE MONTRÉAL 1,"90-A Rue Herve-Saint-Martin, Dorval",Montréal,Quebec,45.468322,-73.741198,Commercial,General population exposure,6.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250128&GoCTemplateCulture=en-CA
+50128,MONTRÃ‰AL-AÃ‰ROPORT DE MONTRÃ‰AL 1,"90-A Rue Herve-Saint-Martin, Dorval",MontrÃ©al,Quebec,45.468322,-73.741198,Commercial,General population exposure,6.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250128&GoCTemplateCulture=en-CA
 ",2019
-50129,MONTRÉAL-RIVIÈRE-DES-PRAIRIES,12400 Wilfrid-Ouellette (R-D-P),Montréal,Quebec,45.651691,-73.573825,Residential,General population exposure,6.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250129&GoCTemplateCulture=en-CA
+50129,MONTRÃ‰AL-RIVIÃˆRE-DES-PRAIRIES,12400 Wilfrid-Ouellette (R-D-P),MontrÃ©al,Quebec,45.651691,-73.573825,Residential,General population exposure,6.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250129&GoCTemplateCulture=en-CA
 ",2019
-50131,MONTRÉAL-HOCHELAGA-MAISONNEUVE,3259 Ste-Catherine Est,Montréal,Quebec,45.539928,-73.540388,Residential,General population exposure,8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250131&GoCTemplateCulture=en-CA
+50131,MONTRÃ‰AL-HOCHELAGA-MAISONNEUVE,3259 Ste-Catherine Est,MontrÃ©al,Quebec,45.539928,-73.540388,Residential,General population exposure,8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250131&GoCTemplateCulture=en-CA
 ",2019
-50133,MONTRÉAL-CHENIER,"8200a Rue Chenier, Arena Chenier",Montréal,Quebec,45.60176,-73.541992,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250133&GoCTemplateCulture=en-CA
+50133,MONTRÃ‰AL-CHENIER,"8200a Rue Chenier, Arena Chenier",MontrÃ©al,Quebec,45.60176,-73.541992,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250133&GoCTemplateCulture=en-CA
 ",2019
-50134,MONTRÉAL-MOLSON or MONTRÉAL-SAINT-JOSEPH,2580 Saint-Joseph Est,Montréal,Quebec,45.54271,-73.57176,Industrial,General population exposure,6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250134&GoCTemplateCulture=en-CA
+50134,MONTRÃ‰AL-MOLSON or MONTRÃ‰AL-SAINT-JOSEPH,2580 Saint-Joseph Est,MontrÃ©al,Quebec,45.54271,-73.57176,Industrial,General population exposure,6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250134&GoCTemplateCulture=en-CA
 ",2019
-50135,MONTRÉAL-CASERNE 17,4240 Rue Charleroi,Montréal,Quebec,45.5934,-73.63726,Residential,General population exposure,7.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250135&GoCTemplateCulture=en-CA
+50135,MONTRÃ‰AL-CASERNE 17,4240 Rue Charleroi,MontrÃ©al,Quebec,45.5934,-73.63726,Residential,General population exposure,7.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250135&GoCTemplateCulture=en-CA
 ",2019
-50136,MONTRÉAL-ST-DOMINIQUE,75 Rue Ontario Est,Montréal,Quebec,45.512189,-73.566842,Residential,General population exposure,6.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250136&GoCTemplateCulture=en-CA
+50136,MONTRÃ‰AL-ST-DOMINIQUE,75 Rue Ontario Est,MontrÃ©al,Quebec,45.512189,-73.566842,Residential,General population exposure,6.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250136&GoCTemplateCulture=en-CA
 ",2019
-50137,MONTRÉAL-TERREBONNE - PARC VAILLANT,Rues Vaillant et de Grand-Champ,Terrebonne,Quebec,45.70476,-73.65776,Residential,General population exposure,8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250137&GoCTemplateCulture=en-CA
+50137,MONTRÃ‰AL-TERREBONNE - PARC VAILLANT,Rues Vaillant et de Grand-Champ,Terrebonne,Quebec,45.70476,-73.65776,Residential,General population exposure,8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250137&GoCTemplateCulture=en-CA
 ",2019
-50138,MONTRÉAL-YORK/ROBERVAL,1540 Roberval,Montréal,Quebec,45.464611,-73.582583,Residential,Transportation source influenced,8.5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250138&GoCTemplateCulture=en-CA
+50138,MONTRÃ‰AL-YORK/ROBERVAL,1540 Roberval,MontrÃ©al,Quebec,45.464611,-73.582583,Residential,Transportation source influenced,8.5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250138&GoCTemplateCulture=en-CA
 ",2019
-50204,GATINEAU-HULL,"255 St-Redempteur, Hull",Gatineau,Quebec,45.435987,-75.723429,Residential,General population exposure,7.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250204&GoCTemplateCulture=en-CA
+50204,GATINEAU-HULL,"255 St-Redempteur, Hull",Gatineau,Quebec,45.435987,-75.723429,Residential,General population exposure,7.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250204&GoCTemplateCulture=en-CA
 ",2019
-50308,QUÉBEC-VIEUX-LIMOILOU (DES SABLES),600 Rue des Sables,Québec,Quebec,46.821177,-71.220495,Residential,General population exposure,7.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250308&GoCTemplateCulture=en-CA
+50308,QUÃ‰BEC-VIEUX-LIMOILOU (DES SABLES),600 Rue des Sables,QuÃ©bec,Quebec,46.821177,-71.220495,Residential,General population exposure,7.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250308&GoCTemplateCulture=en-CA
 ",2019
-50310,QUÉBEC- COLLÈGE ST-CHARLES-GARNIER,1150 Boul. Rene-Levesque O.,Québec,Quebec,46.794873,-71.246387,Residential,General population exposure,6.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250310&GoCTemplateCulture=en-CA
+50310,QUÃ‰BEC- COLLÃˆGE ST-CHARLES-GARNIER,1150 Boul. Rene-Levesque O.,QuÃ©bec,Quebec,46.794873,-71.246387,Residential,General population exposure,6.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250310&GoCTemplateCulture=en-CA
 ",2019
-50311,QUÉBEC-ÉCOLE LES PRIMEVÈRES,"1465, Rue Felix-Antoine-Savard",Québec,Quebec,46.774167,-71.369722,Residential,General population exposure,8.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250311&GoCTemplateCulture=en-CA
+50311,QUÃ‰BEC-Ã‰COLE LES PRIMEVÃˆRES,"1465, Rue Felix-Antoine-Savard",QuÃ©bec,Quebec,46.774167,-71.369722,Residential,General population exposure,8.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250311&GoCTemplateCulture=en-CA
 ",2019
-50404,SHERBROOKE PARC-CAMBRON,"655, Rue Papineau",Sherbrooke,Quebec,45.41231,-71.8746,Residential,General population exposure,7.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250404&GoCTemplateCulture=en-CA
+50404,SHERBROOKE PARC-CAMBRON,"655, Rue Papineau",Sherbrooke,Quebec,45.41231,-71.8746,Residential,General population exposure,7.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250404&GoCTemplateCulture=en-CA
 ",2019
-50504,SAGUENAY-UQAC,"789 Boul des Etudiants, Chicoutimi",Saguenay,Quebec,48.416374,-71.052412,Residential,General population exposure,5.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250504&GoCTemplateCulture=en-CA
+50504,SAGUENAY-UQAC,"789 Boul des Etudiants, Chicoutimi",Saguenay,Quebec,48.416374,-71.052412,Residential,General population exposure,5.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250504&GoCTemplateCulture=en-CA
 ",2019
-50604,ROUYN-NORANDA-PARC TREMBLAY,1570 Rue Paradis,Rouyn-Noranda,Quebec,48.234087,-78.982778,Residential,Point source influenced,6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250604&GoCTemplateCulture=en-CA
+50604,ROUYN-NORANDA-PARC TREMBLAY,1570 Rue Paradis,Rouyn-Noranda,Quebec,48.234087,-78.982778,Residential,Point source influenced,6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250604&GoCTemplateCulture=en-CA
 ",2019
-50801,URSULINES,Face au 678 Rue Hart,Trois-Rivières,Quebec,46.34806,-72.5375,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250801&GoCTemplateCulture=en-CA
+50801,URSULINES,Face au 678 Rue Hart,Trois-RiviÃ¨res,Quebec,46.34806,-72.5375,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250801&GoCTemplateCulture=en-CA
 ",2019
-50802,DES DRAVEURS,Avenue des Draveurs,Trois-Rivières,Quebec,46.35103,-72.53904,Industrial,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250802&GoCTemplateCulture=en-CA
+50802,DES DRAVEURS,Avenue des Draveurs,Trois-RiviÃ¨res,Quebec,46.35103,-72.53904,Industrial,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250802&GoCTemplateCulture=en-CA
 ",2019
-50803,TROIS RIVIERES - ÉCOLE MEES,Rue Whitehead,Trois-Rivières,Quebec,46.357175,-72.546187,Residential,General population exposure,6.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250803&GoCTemplateCulture=en-CA
+50803,TROIS RIVIERES - Ã‰COLE MEES,Rue Whitehead,Trois-RiviÃ¨res,Quebec,46.357175,-72.546187,Residential,General population exposure,6.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0250803&GoCTemplateCulture=en-CA
 ",2019
-51501,SAINT-ZÉPHIRIN-DE-COURVAL,701 Rang Saint-Michel,St-Zépherin-De-Courval,Quebec,46.042233,-72.659761,Agricultural,Regional background,6.5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0251501&GoCTemplateCulture=en-CA
+51501,SAINT-ZÃ‰PHIRIN-DE-COURVAL,701 Rang Saint-Michel,St-ZÃ©pherin-De-Courval,Quebec,46.042233,-72.659761,Agricultural,Regional background,6.5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0251501&GoCTemplateCulture=en-CA
 ",2019
-52001,CHARETTE,Au Nord du 170 2e Rang,Charette,Quebec,46.4416,-72.89241,Agricultural,Regional background,5.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0252001&GoCTemplateCulture=en-CA
+52001,CHARETTE,Au Nord du 170 2e Rang,Charette,Quebec,46.4416,-72.89241,Agricultural,Regional background,5.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0252001&GoCTemplateCulture=en-CA
 ",2019
-52201,SAINT-SIMON,"Derriere le 83, 4e Rang Est",Saint-Simon,Quebec,45.715614,-72.840249,Agricultural,Regional background,5.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0252201&GoCTemplateCulture=en-CA
+52201,SAINT-SIMON,"Derriere le 83, 4e Rang Est",Saint-Simon,Quebec,45.715614,-72.840249,Agricultural,Regional background,5.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0252201&GoCTemplateCulture=en-CA
 ",2019
-52301,SAINT-FAUSTIN-LAC-CARRÉ,4507 Chemin du Lac (Caribou),Saint-Faustin-Lac-Carré,Quebec,46.035,-74.48083,Forested,Regional background,5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0252301&GoCTemplateCulture=en-CA
+52301,SAINT-FAUSTIN-LAC-CARRÃ‰,4507 Chemin du Lac (Caribou),Saint-Faustin-Lac-CarrÃ©,Quebec,46.035,-74.48083,Forested,Regional background,5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0252301&GoCTemplateCulture=en-CA
 ",2019
-52401,PARC DE LA GATINEAU-LA PÊCHE,Lac Philippe - Masham,La Peche,Quebec,45.622378,-76.018046,Parks,Regional background,5.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0252401&GoCTemplateCulture=en-CA
+52401,PARC DE LA GATINEAU-LA PÃŠCHE,Lac Philippe - Masham,La Peche,Quebec,45.622378,-76.018046,Parks,Regional background,5.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0252401&GoCTemplateCulture=en-CA
 ",2019
-52801,AUCLAIR,66 Rang St-Gregoire Nord,Auclair,Quebec,47.73333,-68.70722,Forested,Regional background,3.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0252801&GoCTemplateCulture=en-CA
+52801,AUCLAIR,66 Rang St-Gregoire Nord,Auclair,Quebec,47.73333,-68.70722,Forested,Regional background,3.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0252801&GoCTemplateCulture=en-CA
 ",2019
-53201,RÉSERVE FAUNIQUE ASHUAPMUSHUAN-PÉMONCA,Route 167- la Dore,La Dore,Quebec,48.80972,-72.73889,Forested,Regional background,4.1,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0253201&GoCTemplateCulture=en-CA
+53201,RÃ‰SERVE FAUNIQUE ASHUAPMUSHUAN-PÃ‰MONCA,Route 167- la Dore,La Dore,Quebec,48.80972,-72.73889,Forested,Regional background,4.1,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0253201&GoCTemplateCulture=en-CA
 ",2019
-53301,DESCHAMBAULT-GRONDINES,"334, 3 E Rang - Deshambault",Deschambault,Quebec,46.682373,-71.965903,Agricultural,Regional background,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0253301&GoCTemplateCulture=en-CA
+53301,DESCHAMBAULT-GRONDINES,"334, 3 E Rang - Deshambault",Deschambault,Quebec,46.682373,-71.965903,Agricultural,Regional background,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0253301&GoCTemplateCulture=en-CA
 ",2019
-53601,NOTRE-DAME-DU-ROSAIRE,Rang St-Louis,Notre-Dame-Du-Rosaire,Quebec,46.84889,-70.45418,Forested,Regional background,4.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0253601&GoCTemplateCulture=en-CA
+53601,NOTRE-DAME-DU-ROSAIRE,Rang St-Louis,Notre-Dame-Du-Rosaire,Quebec,46.84889,-70.45418,Forested,Regional background,4.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0253601&GoCTemplateCulture=en-CA
 ",2019
-53701,SAINT-HILAIRE-DE-DORSET,Rang Dorset,St-Hilaire-De-Dorset,Quebec,45.824861,-70.856025,Forested,Regional background,4.5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0253701&GoCTemplateCulture=en-CA
+53701,SAINT-HILAIRE-DE-DORSET,Rang Dorset,St-Hilaire-De-Dorset,Quebec,45.824861,-70.856025,Forested,Regional background,4.5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0253701&GoCTemplateCulture=en-CA
 ",2019
-53801,TINGWICK,Chemin du Radar et Warwick,Tingwick,Quebec,45.905785,-71.948695,Agricultural,Regional background,4.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0253801&GoCTemplateCulture=en-CA
+53801,TINGWICK,Chemin du Radar et Warwick,Tingwick,Quebec,45.905785,-71.948695,Agricultural,Regional background,4.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0253801&GoCTemplateCulture=en-CA
 ",2019
-53901,LAC-ÉDOUARD,Derriere l'hopital Village,Lac-Edouard,Quebec,47.64722,-72.29056,Agricultural,Regional background,5.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0253901&GoCTemplateCulture=en-CA
+53901,LAC-Ã‰DOUARD,Derriere l'hopital Village,Lac-Edouard,Quebec,47.64722,-72.29056,Agricultural,Regional background,5.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0253901&GoCTemplateCulture=en-CA
 ",2019
-54401,SAINT-ANICET,1128 de la Guerre,Saint-Anicet,Quebec,45.120624,-74.2896,Agricultural,Regional background,5.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0254401&GoCTemplateCulture=en-CA
+54401,SAINT-ANICET,1128 de la Guerre,Saint-Anicet,Quebec,45.120624,-74.2896,Agricultural,Regional background,5.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0254401&GoCTemplateCulture=en-CA
 ",2019
-54901,LA PATRIE - DITTON,Chemin du Petit-Canada Ouest,La Patrie,Quebec,45.37333,-71.250167,Forested,Regional background,4.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0254901&GoCTemplateCulture=en-CA
+54901,LA PATRIE - DITTON,Chemin du Petit-Canada Ouest,La Patrie,Quebec,45.37333,-71.250167,Forested,Regional background,4.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0254901&GoCTemplateCulture=en-CA
 ",2019
-55001,MONT SAINT-MICHEL,215 4 Ieme Rang de Gravel,Ferme Neuve,Quebec,46.76866,-75.432728,Forested,Regional background,4.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0255001&GoCTemplateCulture=en-CA
+55001,MONT SAINT-MICHEL,215 4 Ieme Rang de Gravel,Ferme Neuve,Quebec,46.76866,-75.432728,Forested,Regional background,4.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0255001&GoCTemplateCulture=en-CA
 ",2019
-55101,SENNETERRE,Chemin Riviere Bell,Senneterre,Quebec,48.431648,-77.196674,Forested,Regional background,4.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0255101&GoCTemplateCulture=en-CA
+55101,SENNETERRE,Chemin Riviere Bell,Senneterre,Quebec,48.431648,-77.196674,Forested,Regional background,4.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0255101&GoCTemplateCulture=en-CA
 ",2019
-55301,SAINT-JEAN-SUR-RICHELIEUL-L'ACADIE,"Ferme Exp., 1134 Route 219",Saint-Jean-Sur-Richelieu,Quebec,45.29413,-73.34857,Agricultural,Regional background,6.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0255301&GoCTemplateCulture=en-CA
+55301,SAINT-JEAN-SUR-RICHELIEUL-L'ACADIE,"Ferme Exp., 1134 Route 219",Saint-Jean-Sur-Richelieu,Quebec,45.29413,-73.34857,Agricultural,Regional background,6.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0255301&GoCTemplateCulture=en-CA
 ",2019
-55702,LÉVIS - PARC GEORGES-MARANDA,200 Rue des Commandeurs,Lévis,Quebec,46.806029,-71.167506,Residential,General population exposure,6.5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0255702&GoCTemplateCulture=en-CA
+55702,LÃ‰VIS - PARC GEORGES-MARANDA,200 Rue des Commandeurs,LÃ©vis,Quebec,46.806029,-71.167506,Residential,General population exposure,6.5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0255702&GoCTemplateCulture=en-CA
 ",2019
-60104,OTTAWA DOWNTOWN,Rideau & Wurtemburg,Ottawa,Ontario,45.43433,-75.676,Residential,General population exposure,5.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260104&GoCTemplateCulture=en-CA
+60104,OTTAWA DOWNTOWN,Rideau & Wurtemburg,Ottawa,Ontario,45.43433,-75.676,Residential,General population exposure,5.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260104&GoCTemplateCulture=en-CA
 ",2019
-60106,OTTAWA CENTRAL,960 Carling Ave,Ottawa,Ontario,45.38287,-75.71387,Agricultural,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260106&GoCTemplateCulture=en-CA
+60106,OTTAWA CENTRAL,960 Carling Ave,Ottawa,Ontario,45.38287,-75.71387,Agricultural,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260106&GoCTemplateCulture=en-CA
 ",2019
-60204,WINDSOR DOWNTOWN,467 University Ave. West,Windsor,Ontario,42.315778,-83.043667,Residential,Transportation source influenced,7.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260204&GoCTemplateCulture=en-CA
+60204,WINDSOR DOWNTOWN,467 University Ave. West,Windsor,Ontario,42.315778,-83.043667,Residential,Transportation source influenced,7.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260204&GoCTemplateCulture=en-CA
 ",2019
-60211,WINDSOR WEST,College & South St. / 928 South St.,Windsor,Ontario,42.292889,-83.073139,Residential,Transportation source influenced,9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260211&GoCTemplateCulture=en-CA
+60211,WINDSOR WEST,College & South St. / 928 South St.,Windsor,Ontario,42.292889,-83.073139,Residential,Transportation source influenced,9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260211&GoCTemplateCulture=en-CA
 ",2019
-60303,"KINGSTON, 2",752 King St. West,Kingston,Ontario,44.220081,-76.52141,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260303&GoCTemplateCulture=en-CA
+60303,"KINGSTON, 2",752 King St. West,Kingston,Ontario,44.220081,-76.52141,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260303&GoCTemplateCulture=en-CA
 ",2019
-60304,KINGSTON 3,Near 23 Beechgrove Lane,Kingston,Ontario,44.21987,-76.52113,Residential,General population exposure,5.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260304&GoCTemplateCulture=en-CA
+60304,KINGSTON 3,Near 23 Beechgrove Lane,Kingston,Ontario,44.21987,-76.52113,Residential,General population exposure,5.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260304&GoCTemplateCulture=en-CA
 ",2019
-60410,TORONTO EAST,Lawrence & Kennedy,Toronto,Ontario,43.74792,-79.27406,Industrial,Transportation source influenced,7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260410&GoCTemplateCulture=en-CA
+60410,TORONTO EAST,Lawrence & Kennedy,Toronto,Ontario,43.74792,-79.27406,Industrial,Transportation source influenced,7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260410&GoCTemplateCulture=en-CA
 ",2019
-60421,TORONTO NORTH,Yonge St. & Hendon Ave.,Toronto,Ontario,43.781584,-79.41773,Residential,Transportation source influenced,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260421&GoCTemplateCulture=en-CA
+60421,TORONTO NORTH,Yonge St. & Hendon Ave.,Toronto,Ontario,43.781584,-79.41773,Residential,Transportation source influenced,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260421&GoCTemplateCulture=en-CA
 ",2019
-60428,"BRAMPTON, BRAMPTON ",525 Main St. N./ Peel Manor,Brampton,Ontario,43.69875,-79.78092,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260428&GoCTemplateCulture=en-CA
+60428,"BRAMPTON, BRAMPTON ",525 Main St. N./ Peel Manor,Brampton,Ontario,43.69875,-79.78092,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260428&GoCTemplateCulture=en-CA
 ",2019
-60429,"JUDSON ST. & ETONA CT., ETOBICOKE  (moved to kipling)",1 Etona Court,Toronto,Ontario,43.613587,-79.507537,Industrial,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260429&GoCTemplateCulture=en-CA
+60429,"JUDSON ST. & ETONA CT., ETOBICOKE  (moved to kipling)",1 Etona Court,Toronto,Ontario,43.613587,-79.507537,Industrial,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260429&GoCTemplateCulture=en-CA
 ",2019
-60430,TORONTO WEST-125 RESOURCES RD,125 Resources Road,Toronto,Ontario,43.709444,-79.5435,Commercial,General population exposure,7.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260430&GoCTemplateCulture=en-CA
+60430,TORONTO WEST-125 RESOURCES RD,125 Resources Road,Toronto,Ontario,43.709444,-79.5435,Commercial,General population exposure,7.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260430&GoCTemplateCulture=en-CA
 ",2019
-60432,"FRANK MCKECHNIE COMMERCIAL CENTRE, Mississauga ",310 Bristol Road E.,Mississauga,Ontario,43.61583,-79.6525,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260432&GoCTemplateCulture=en-CA
+60432,"FRANK MCKECHNIE COMMERCIAL CENTRE, Mississauga ",310 Bristol Road E.,Mississauga,Ontario,43.61583,-79.6525,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260432&GoCTemplateCulture=en-CA
 ",2019
-60433,"BAY & WELLESLEY, Toronto Downtown",Bay/wellesey St.,Toronto,Ontario,43.66417,-79.38722,Residential,Transportation source influenced,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260433&GoCTemplateCulture=en-CA
+60433,"BAY & WELLESLEY, Toronto Downtown",Bay/wellesey St.,Toronto,Ontario,43.66417,-79.38722,Residential,Transportation source influenced,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260433&GoCTemplateCulture=en-CA
 ",2019
-60434,MISSISSAUGA,3359 Mississauga Road,Mississauga,Ontario,43.54697,-79.65869,Commercial,General population exposure,7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260434&GoCTemplateCulture=en-CA
+60434,MISSISSAUGA,3359 Mississauga Road,Mississauga,Ontario,43.54697,-79.65869,Commercial,General population exposure,7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260434&GoCTemplateCulture=en-CA
 ",2019
-60435,ETOBICOKE SOUTH-2,461 Kipling Avenue,Toronto,Ontario,43.610761,-79.52194,Industrial,Point source influenced,7.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260435&GoCTemplateCulture=en-CA
+60435,ETOBICOKE SOUTH-2,461 Kipling Avenue,Toronto,Ontario,43.610761,-79.52194,Industrial,Point source influenced,7.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260435&GoCTemplateCulture=en-CA
 ",2019
-60438,ROADSIDE - 401W-TORONTO,401w - 125 Resources Rd.,Toronto,Ontario,43.711106,-79.543425,Commercial,Transportation source influenced,8.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260438&GoCTemplateCulture=en-CA
+60438,ROADSIDE - 401W-TORONTO,401w - 125 Resources Rd.,Toronto,Ontario,43.711106,-79.543425,Commercial,Transportation source influenced,8.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260438&GoCTemplateCulture=en-CA
 ",2019
-60440,TORONTO NORTH - DOWNSVIEW,4905 Dufferin Street,Toronto,Ontario,43.78042,-79.46752,Industrial,General population exposure,6.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260440&GoCTemplateCulture=en-CA
+60440,TORONTO NORTH - DOWNSVIEW,4905 Dufferin Street,Toronto,Ontario,43.78042,-79.46752,Industrial,General population exposure,6.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260440&GoCTemplateCulture=en-CA
 ",2019
-60450,BRAMPTON,109 Mclaughlin Rd. S.,Brampton,Ontario,43.669567,-79.76567,Commercial,General population exposure,6.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260450&GoCTemplateCulture=en-CA
+60450,BRAMPTON,109 Mclaughlin Rd. S.,Brampton,Ontario,43.669567,-79.76567,Commercial,General population exposure,6.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260450&GoCTemplateCulture=en-CA
 ",2019
-60512,"BEASLEY PARK, HAMILTON DOWNTOWN ",Elgin & Kelly,Hamilton,Ontario,43.25778,-79.86167,Residential,Point source influenced,8.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260512&GoCTemplateCulture=en-CA
+60512,"BEASLEY PARK, HAMILTON DOWNTOWN ",Elgin & Kelly,Hamilton,Ontario,43.25778,-79.86167,Residential,Point source influenced,8.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260512&GoCTemplateCulture=en-CA
 ",2019
-60513,"HAMILTON MOUNTAIN, Hamilton Mountain ",Vickers Rd. & East 18th. St.,Hamilton,Ontario,43.22942,-79.86278,Residential,Point source influenced,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260513&GoCTemplateCulture=en-CA
+60513,"HAMILTON MOUNTAIN, Hamilton Mountain ",Vickers Rd. & East 18th. St.,Hamilton,Ontario,43.22942,-79.86278,Residential,Point source influenced,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260513&GoCTemplateCulture=en-CA
 ",2019
-60515,"MAIN ST. & HWY 403, Hamilton West ",Main St. & Hwy 403,Hamilton,Ontario,43.25744,-79.90775,Residential,General population exposure,7.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260515&GoCTemplateCulture=en-CA
+60515,"MAIN ST. & HWY 403, Hamilton West ",Main St. & Hwy 403,Hamilton,Ontario,43.25744,-79.90775,Residential,General population exposure,7.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260515&GoCTemplateCulture=en-CA
 ",2019
-60521,HAMILTON MOUNTAIN,250 Fennel Ave W.,Hamilton,Ontario,43.24132,-79.88941,Residential,Point source influenced,7.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260521&GoCTemplateCulture=en-CA
+60521,HAMILTON MOUNTAIN,250 Fennel Ave W.,Hamilton,Ontario,43.24132,-79.88941,Residential,Point source influenced,7.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260521&GoCTemplateCulture=en-CA
 ",2019
-60609,"RAMSEY LAKE ROAD, Sudbury ",1222 Ramsey Lake Road,Sudbury,Ontario,46.47567,-80.963,Residential,Point source influenced,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260609&GoCTemplateCulture=en-CA
+60609,"RAMSEY LAKE ROAD, Sudbury ",1222 Ramsey Lake Road,Sudbury,Ontario,46.47567,-80.963,Residential,Point source influenced,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260609&GoCTemplateCulture=en-CA
 ",2019
-60610,SUDBURY,155 Elm Street,Sudbury,Ontario,46.49194,-81.00311,Residential,Point source influenced,4.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260610&GoCTemplateCulture=en-CA
+60610,SUDBURY,155 Elm Street,Sudbury,Ontario,46.49194,-81.00311,Residential,Point source influenced,4.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260610&GoCTemplateCulture=en-CA
 ",2019
-60709,"SAULT COLLEGE, Sault Ste. Marie ","443 Northern Ave., Sault College",Sault Ste Marie,Ontario,46.53319,-84.30992,Commercial,Point source influenced,4.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260709&GoCTemplateCulture=en-CA
+60709,"SAULT COLLEGE, Sault Ste. Marie ","443 Northern Ave., Sault College",Sault Ste Marie,Ontario,46.53319,-84.30992,Commercial,Point source influenced,4.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260709&GoCTemplateCulture=en-CA
 ",2019
-60809,"421 JAMES STREET SOUTH, Thunder Bay ",421 James Street South,Thunder Bay,Ontario,48.37939,-89.29017,Residential,General population exposure,5.1,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260809&GoCTemplateCulture=en-CA
+60809,"421 JAMES STREET SOUTH, Thunder Bay ",421 James Street South,Thunder Bay,Ontario,48.37939,-89.29017,Residential,General population exposure,5.1,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260809&GoCTemplateCulture=en-CA
 ",2019
-60903,"LONDON AQI SITE, LONDON  900 HGHBURYAVE",900 Highbury Avenue,London,Ontario,43.00672,-81.20642,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260903&GoCTemplateCulture=en-CA
+60903,"LONDON AQI SITE, LONDON  900 HGHBURYAVE",900 Highbury Avenue,London,Ontario,43.00672,-81.20642,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260903&GoCTemplateCulture=en-CA
 ",2019
-60904,LONDON,42 St. Julien Street,London,Ontario,42.97446,-81.20086,Residential,General population exposure,6.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260904&GoCTemplateCulture=en-CA
+60904,LONDON,42 St. Julien Street,London,Ontario,42.97446,-81.20086,Residential,General population exposure,6.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0260904&GoCTemplateCulture=en-CA
 ",2019
-61004,"CENTENNIAL PARK, SARNIA ",Front St. at C.N. Tracks/Centennial Park,Sarnia,Ontario,42.98228,-82.40508,Parks,Point source influenced,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261004&GoCTemplateCulture=en-CA
+61004,"CENTENNIAL PARK, SARNIA ",Front St. at C.N. Tracks/Centennial Park,Sarnia,Ontario,42.98228,-82.40508,Parks,Point source influenced,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261004&GoCTemplateCulture=en-CA
 ",2019
-61007,AAMJIWNAANG,1300 Tashmoo Ave./ Lasalle Line,Sarnia,Ontario,42.912545,-82.416816,Residential,Regional background,7.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261007&GoCTemplateCulture=en-CA
+61007,AAMJIWNAANG,1300 Tashmoo Ave./ Lasalle Line,Sarnia,Ontario,42.912545,-82.416816,Residential,Regional background,7.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261007&GoCTemplateCulture=en-CA
 ",2019
-61009,SARNIA,700 Christina St. N.,Sarnia,Ontario,42.990263,-82.395341,Residential,General population exposure,7.1,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261009&GoCTemplateCulture=en-CA
+61009,SARNIA,700 Christina St. N.,Sarnia,Ontario,42.990263,-82.395341,Residential,General population exposure,7.1,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261009&GoCTemplateCulture=en-CA
 ",2019
-61104,"10 HOSPITAL DRIVE, Peterborough ",10 Hospital Drive,Peterborough,Ontario,44.301833,-78.346386,Residential,General population exposure,6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261104&GoCTemplateCulture=en-CA
+61104,"10 HOSPITAL DRIVE, Peterborough ",10 Hospital Drive,Peterborough,Ontario,44.301833,-78.346386,Residential,General population exposure,6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261104&GoCTemplateCulture=en-CA
 ",2019
-61201,"MEMORIAL PARK, Cornwall ",Bedford & Third St.,Cornwall,Ontario,45.017981,-74.735314,Residential,General population exposure,5.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261201&GoCTemplateCulture=en-CA
+61201,"MEMORIAL PARK, Cornwall ",Bedford & Third St.,Cornwall,Ontario,45.017981,-74.735314,Residential,General population exposure,5.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261201&GoCTemplateCulture=en-CA
 ",2019
-61302,"ARGYLE CRESCENT, St. Catharines ",62 Argyle Crescent/ Pump Stn.,St. Catharines,Ontario,43.16006,-79.23475,Residential,General population exposure,6.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261302&GoCTemplateCulture=en-CA
+61302,"ARGYLE CRESCENT, St. Catharines ",62 Argyle Crescent/ Pump Stn.,St. Catharines,Ontario,43.16006,-79.23475,Residential,General population exposure,6.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261302&GoCTemplateCulture=en-CA
 ",2019
-61402,"324 GRAND RIVER AVE., Brantford ",324 Grand River Ave.,Brantford,Ontario,43.13861,-80.29264,Industrial,General population exposure,7.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261402&GoCTemplateCulture=en-CA
+61402,"324 GRAND RIVER AVE., Brantford ",324 Grand River Ave.,Brantford,Ontario,43.13861,-80.29264,Industrial,General population exposure,7.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261402&GoCTemplateCulture=en-CA
 ",2019
-61502,"WEST AVE. & HOMEWOOD, KITCHENER ",West Ave. & Homewood,Kitchener,Ontario,43.44383,-80.50381,Residential,General population exposure,7.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261502&GoCTemplateCulture=en-CA
+61502,"WEST AVE. & HOMEWOOD, KITCHENER ",West Ave. & Homewood,Kitchener,Ontario,43.44383,-80.50381,Residential,General population exposure,7.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261502&GoCTemplateCulture=en-CA
 ",2019
-61603,"8TH LINE/GLENASHTON DR., HALTON RESERVE","8th Line and Glenashton Dr., Halton Reservoir",Oakville,Ontario,43.48692,-79.70228,Residential,General population exposure,7.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261603&GoCTemplateCulture=en-CA
+61603,"8TH LINE/GLENASHTON DR., HALTON RESERVE","8th Line and Glenashton Dr., Halton Reservoir",Oakville,Ontario,43.48692,-79.70228,Residential,General population exposure,7.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261603&GoCTemplateCulture=en-CA
 ",2019
-61702,DURHAM COLLEGE,2000 Simcoe Street North,Oshawa,Ontario,43.94594,-78.89492,Residential,Transportation source influenced,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261702&GoCTemplateCulture=en-CA
+61702,DURHAM COLLEGE,2000 Simcoe Street North,Oshawa,Ontario,43.94594,-78.89492,Residential,Transportation source influenced,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261702&GoCTemplateCulture=en-CA
 ",2019
-61703,OSHAWA,"Britannia Ave W, Uofontario Property",Oshawa,Ontario,43.95222,-78.9125,Agricultural,General population exposure,6.1,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261703&GoCTemplateCulture=en-CA
+61703,OSHAWA,"Britannia Ave W, Uofontario Property",Oshawa,Ontario,43.95222,-78.9125,Agricultural,General population exposure,6.1,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261703&GoCTemplateCulture=en-CA
 ",2019
-61802,"EXHIBITION PARK ARENA, GUELPH ",Exhibition Park & Clark St. W.,Guelph,Ontario,43.551636,-80.264156,Residential,General population exposure,7.1,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261802&GoCTemplateCulture=en-CA
+61802,"EXHIBITION PARK ARENA, GUELPH ",Exhibition Park & Clark St. W.,Guelph,Ontario,43.551636,-80.264156,Residential,General population exposure,7.1,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0261802&GoCTemplateCulture=en-CA
 ",2019
-62001,"CHIPPEWA ST. - DND, NorTH Bay ",540 Chippewa St. W./dept. of National Defence,North Bay,Ontario,46.32323,-79.44928,Residential,General population exposure,4.5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0262001&GoCTemplateCulture=en-CA
+62001,"CHIPPEWA ST. - DND, NorTH Bay ",540 Chippewa St. W./dept. of National Defence,North Bay,Ontario,46.32323,-79.44928,Residential,General population exposure,4.5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0262001&GoCTemplateCulture=en-CA
 ",2019
-62501,"TIVERTON, Tiverton ",Bruce Nuclear Visitor Ctr,Tiverton,Ontario,44.31447,-81.54972,Agricultural,Regional background,5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0262501&GoCTemplateCulture=en-CA
+62501,"TIVERTON, Tiverton ",Bruce Nuclear Visitor Ctr,Tiverton,Ontario,44.31447,-81.54972,Agricultural,Regional background,5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0262501&GoCTemplateCulture=en-CA
 ",2019
-62601,"EXPERIMENTAL FARM, SIMCOE ",Experimental Farm,Simcoe,Ontario,42.85685,-80.26964,Agricultural,Regional background,6.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0262601&GoCTemplateCulture=en-CA
+62601,"EXPERIMENTAL FARM, SIMCOE ",Experimental Farm,Simcoe,Ontario,42.85685,-80.26964,Agricultural,Regional background,6.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0262601&GoCTemplateCulture=en-CA
 ",2019
-63001,"HWY 2 & NORTH SHORE BLVD., BURLINGTON ","North Shore Blvd E. and Lakeshore Rd.,",Burlington,Ontario,43.314575,-79.802756,Commercial,General population exposure,7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0263001&GoCTemplateCulture=en-CA
+63001,"HWY 2 & NORTH SHORE BLVD., BURLINGTON ","North Shore Blvd E. and Lakeshore Rd.,",Burlington,Ontario,43.314575,-79.802756,Commercial,General population exposure,7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0263001&GoCTemplateCulture=en-CA
 ",2019
-63301,"HWY 117 & PAINT LAKE ROAD, DORSET ",District Road 117 and Paint Lake Rd.,Dorset,Ontario,45.224278,-78.932944,Forested,Regional background,4.1,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0263301&GoCTemplateCulture=en-CA
+63301,"HWY 117 & PAINT LAKE ROAD, DORSET ",District Road 117 and Paint Lake Rd.,Dorset,Ontario,45.224278,-78.932944,Forested,Regional background,4.1,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0263301&GoCTemplateCulture=en-CA
 ",2019
-63701,"POINT BLAKE ""CONSERVATION AREA"", Grand Bend ",Point Blake Conservation Area,Grand Bend,Ontario,43.333186,-81.742822,Residential,Regional background,5.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0263701&GoCTemplateCulture=en-CA
+63701,"POINT BLAKE ""CONSERVATION AREA"", Grand Bend ",Point Blake Conservation Area,Grand Bend,Ontario,43.333186,-81.742822,Residential,Regional background,5.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0263701&GoCTemplateCulture=en-CA
 ",2019
-65001,"OLD PUC, Barrie ",83 Perry Street,Barrie,Ontario,44.382314,-79.702431,Residential,General population exposure,7.5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0265001&GoCTemplateCulture=en-CA
+65001,"OLD PUC, Barrie ",83 Perry Street,Barrie,Ontario,44.382314,-79.702431,Residential,General population exposure,7.5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0265001&GoCTemplateCulture=en-CA
 ",2019
-65101,"EAGLE ST. & McCAFFREY RD., NEWMARKET ",Eagle St. & McCaffrey Rd.,Newmarket,Ontario,44.04431,-79.48325,Residential,General population exposure,6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0265101&GoCTemplateCulture=en-CA
+65101,"EAGLE ST. & McCAFFREY RD., NEWMARKET ",Eagle St. & McCaffrey Rd.,Newmarket,Ontario,44.04431,-79.48325,Residential,General population exposure,6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0265101&GoCTemplateCulture=en-CA
 ",2019
-65201,"7 BAY STREET, Parry Sound ",7 Bay Street,Parry Sound,Ontario,45.33786,-80.03817,Water,General population exposure,4.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0265201&GoCTemplateCulture=en-CA
+65201,"7 BAY STREET, Parry Sound ",7 Bay Street,Parry Sound,Ontario,45.33786,-80.03817,Water,General population exposure,4.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0265201&GoCTemplateCulture=en-CA
 ",2019
-65301,"ELGIN WATER TREATMENT PLANT, Port Stanley ",43665 Dexter Line,Port Stanley,Ontario,42.67208,-81.16289,Agricultural,Regional background,6.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0265301&GoCTemplateCulture=en-CA
+65301,"ELGIN WATER TREATMENT PLANT, Port Stanley ",43665 Dexter Line,Port Stanley,Ontario,42.67208,-81.16289,Agricultural,Regional background,6.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0265301&GoCTemplateCulture=en-CA
 ",2019
-65401,"WATER TREATMENT PLANT, Belleville ",2 Sidney Street,Belleville,Ontario,44.15053,-77.3955,Water,General population exposure,6.1,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0265401&GoCTemplateCulture=en-CA
+65401,"WATER TREATMENT PLANT, Belleville ",2 Sidney Street,Belleville,Ontario,44.15053,-77.3955,Water,General population exposure,6.1,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0265401&GoCTemplateCulture=en-CA
 ",2019
-65801,CHATHAM,435 Grand Avenue W.,Chatham,Ontario,42.40369,-82.20831,Residential,General population exposure,6.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0265801&GoCTemplateCulture=en-CA
+65801,CHATHAM,435 Grand Avenue W.,Chatham,Ontario,42.40369,-82.20831,Residential,General population exposure,6.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0265801&GoCTemplateCulture=en-CA
 ",2019
-66201,PETAWAWA,"Petawa Forest Reserve Facilities, 1227 Clouthier Rd",Petawawa,Ontario,45.996722,-77.441194,Forested,Regional background,3.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0266201&GoCTemplateCulture=en-CA
+66201,PETAWAWA,"Petawa Forest Reserve Facilities, 1227 Clouthier Rd",Petawawa,Ontario,45.996722,-77.441194,Forested,Regional background,3.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0266201&GoCTemplateCulture=en-CA
 ",2019
-67001,MILTON,1120 Main St East,Milton,Ontario,43.52965,-79.862449,Parks,General population exposure,7.5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0267001&GoCTemplateCulture=en-CA
+67001,MILTON,1120 Main St East,Milton,Ontario,43.52965,-79.862449,Parks,General population exposure,7.5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0267001&GoCTemplateCulture=en-CA
 ",2019
-70118,SCOTIA,299 Scotia St.,Winnipeg,Manitoba,49.93207,-97.11317,Residential,General population exposure,5.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0270118&GoCTemplateCulture=en-CA
+70118,SCOTIA,299 Scotia St.,Winnipeg,Manitoba,49.93207,-97.11317,Residential,General population exposure,5.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0270118&GoCTemplateCulture=en-CA
 ",2019
-70119,ELLEN,65 Ellen Street,Winnipeg,Manitoba,49.89799,-97.14653,Residential,General population exposure,5.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0270119&GoCTemplateCulture=en-CA
+70119,ELLEN,65 Ellen Street,Winnipeg,Manitoba,49.89799,-97.14653,Residential,General population exposure,5.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0270119&GoCTemplateCulture=en-CA
 ",2019
-70203,BRANDON,1430 Victoria Avenue East (Assiniboine Community College),Brandon,Manitoba,49.83918,-99.9206,Industrial,General population exposure,4.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0270203&GoCTemplateCulture=en-CA
+70203,BRANDON,1430 Victoria Avenue East (Assiniboine Community College),Brandon,Manitoba,49.83918,-99.9206,Industrial,General population exposure,4.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0270203&GoCTemplateCulture=en-CA
 ",2019
-70301,FLIN FLON,143 Main Street,Flin Flon,Manitoba,54.76852,-101.87747,Residential,Transportation source influenced,3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0270301&GoCTemplateCulture=en-CA
+70301,FLIN FLON,143 Main Street,Flin Flon,Manitoba,54.76852,-101.87747,Residential,Transportation source influenced,3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0270301&GoCTemplateCulture=en-CA
 ",2019
-70501,THOMPSON WESTWOOD,48 Thompson Drive N,Thompson,Manitoba,55.74719,-97.87353,Residential,Point source influenced,3.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0270501&GoCTemplateCulture=en-CA
+70501,THOMPSON WESTWOOD,48 Thompson Drive N,Thompson,Manitoba,55.74719,-97.87353,Residential,Point source influenced,3.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0270501&GoCTemplateCulture=en-CA
 ",2019
-80110,REGINA-2505 11TH. AVENUE,2505 11th. Avenue,Regina,Saskatchewan,50.45017,-104.61722,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0280110&GoCTemplateCulture=en-CA
+80110,REGINA-2505 11TH. AVENUE,2505 11th. Avenue,Regina,Saskatchewan,50.45017,-104.61722,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0280110&GoCTemplateCulture=en-CA
 ",2019
-80111,REGINA,1621 Albert St.,Regina,Saskatchewan,50.4527,-104.616,Residential,General population exposure,4.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0280111&GoCTemplateCulture=en-CA
+80111,REGINA,1621 Albert St.,Regina,Saskatchewan,50.4527,-104.616,Residential,General population exposure,4.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0280111&GoCTemplateCulture=en-CA
 ",2019
-80211,SASKATOON-CORMAN PARK,511 1st Avenue North,Saskatoon,Saskatchewan,52.13613,-106.66293,Residential,General population exposure,7.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0280211&GoCTemplateCulture=en-CA
+80211,SASKATOON-CORMAN PARK,511 1st Avenue North,Saskatoon,Saskatchewan,52.13613,-106.66293,Residential,General population exposure,7.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0280211&GoCTemplateCulture=en-CA
 ",2019
-80402,PRINCE ALBERT,63 - 12th Street East,Prince Albert,Saskatchewan,53.201694,-105.75203,Residential,General population exposure,7.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0280402&GoCTemplateCulture=en-CA
+80402,PRINCE ALBERT,63 - 12th Street East,Prince Albert,Saskatchewan,53.201694,-105.75203,Residential,General population exposure,7.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0280402&GoCTemplateCulture=en-CA
 ",2019
-80502,528 1a STREET,528 1a Street,Estevan,Saskatchewan,49.13235,-102.98499,Residential,Point source influenced,4.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0280502&GoCTemplateCulture=en-CA
+80502,528 1a STREET,528 1a Street,Estevan,Saskatchewan,49.13235,-102.98499,Residential,Point source influenced,4.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0280502&GoCTemplateCulture=en-CA
 ",2019
-81001,SPEEDY CREEK,1200 Begg St. W,Swift Current,Saskatchewan,50.285833,-107.81689,Residential,General population exposure,5.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0281001&GoCTemplateCulture=en-CA
+81001,SPEEDY CREEK,1200 Begg St. W,Swift Current,Saskatchewan,50.285833,-107.81689,Residential,General population exposure,5.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0281001&GoCTemplateCulture=en-CA
 ",2019
-90120,EDMONTON SOUTH,6240 113 Street,Edmonton,Alberta,53.50022,-113.526056,Residential,General population exposure,7.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290120&GoCTemplateCulture=en-CA
+90120,EDMONTON SOUTH,6240 113 Street,Edmonton,Alberta,53.50022,-113.526056,Residential,General population exposure,7.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290120&GoCTemplateCulture=en-CA
 ",2019
-90121,EDMONTON EAST,17 Street & 105 Avenue,Edmonton,Alberta,53.54823,-113.36811,Industrial,Point source influenced,8.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290121&GoCTemplateCulture=en-CA
+90121,EDMONTON EAST,17 Street & 105 Avenue,Edmonton,Alberta,53.54823,-113.36811,Industrial,Point source influenced,8.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290121&GoCTemplateCulture=en-CA
 ",2019
-90130,EDMONTON CENTRAL,10255 - 104th Street,Edmonton,Alberta,53.54445,-113.49884,Residential,General population exposure,6.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290130&GoCTemplateCulture=en-CA
+90130,EDMONTON CENTRAL,10255 - 104th Street,Edmonton,Alberta,53.54445,-113.49884,Residential,General population exposure,6.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290130&GoCTemplateCulture=en-CA
 ",2019
-90132,EDMONTON MCINTYRE,4946-89 Street,Edmonton,Alberta,53.486,-113.4646,Industrial,General population exposure,8.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290132&GoCTemplateCulture=en-CA
+90132,EDMONTON MCINTYRE,4946-89 Street,Edmonton,Alberta,53.486,-113.4646,Industrial,General population exposure,8.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290132&GoCTemplateCulture=en-CA
 ",2019
-90133,EDMONTON - WOODCROFT,13915 115 Ave Nw,Edmonton,Alberta,53.564411,-113.562583,Parks,General population exposure,8.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290133&GoCTemplateCulture=en-CA
+90133,EDMONTON - WOODCROFT,13915 115 Ave Nw,Edmonton,Alberta,53.564411,-113.562583,Parks,General population exposure,8.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290133&GoCTemplateCulture=en-CA
 ",2019
-90134,SHERWOOD PARK-2,Ottwell House Park,Sherwood Park,Alberta,53.532092,-113.320983,Residential,Transportation source influenced,7.1,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290134&GoCTemplateCulture=en-CA
+90134,SHERWOOD PARK-2,Ottwell House Park,Sherwood Park,Alberta,53.532092,-113.320983,Residential,Transportation source influenced,7.1,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290134&GoCTemplateCulture=en-CA
 ",2019
-90135,ARDROSSAN,3 Ave,Ardrossan,Alberta,53.554691,-113.144905,Residential,General population exposure,6.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290135&GoCTemplateCulture=en-CA
+90135,ARDROSSAN,3 Ave,Ardrossan,Alberta,53.554691,-113.144905,Residential,General population exposure,6.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290135&GoCTemplateCulture=en-CA
 ",2019
-90136,ST. ALBERT,37 Sunset Blvd,St. Albert,Alberta,53.626908,-113.611883,Residential,General population exposure,6.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290136&GoCTemplateCulture=en-CA
+90136,ST. ALBERT,37 Sunset Blvd,St. Albert,Alberta,53.626908,-113.611883,Residential,General population exposure,6.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290136&GoCTemplateCulture=en-CA
 ",2019
-90222,CALGARY NORTHWEST,39 St. & 29 Ave. N.W.,Calgary,Alberta,51.079222,-114.141828,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290222&GoCTemplateCulture=en-CA
+90222,CALGARY NORTHWEST,39 St. & 29 Ave. N.W.,Calgary,Alberta,51.079222,-114.141828,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290222&GoCTemplateCulture=en-CA
 ",2019
-90227,CALGARY CENTRAL,611-4th Street S.W.,Calgary,Alberta,51.04778,-114.07556,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290227&GoCTemplateCulture=en-CA
+90227,CALGARY CENTRAL,611-4th Street S.W.,Calgary,Alberta,51.04778,-114.07556,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290227&GoCTemplateCulture=en-CA
 ",2019
-90228,CALGARY CENTRAL-2,620 7th Ave SW,Calgary,Alberta,51.04701,-114.07564,Residential,General population exposure,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290228&GoCTemplateCulture=en-CA
+90228,CALGARY CENTRAL-2,620 7th Ave SW,Calgary,Alberta,51.04701,-114.07564,Residential,General population exposure,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290228&GoCTemplateCulture=en-CA
 ",2019
-90229,CALGARY SOUTHEAST,4700 110 Avenue Se,Calgary,Alberta,50.955122,-113.969742,Industrial,General population exposure,7.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290229&GoCTemplateCulture=en-CA
+90229,CALGARY SOUTHEAST,4700 110 Avenue Se,Calgary,Alberta,50.955122,-113.969742,Industrial,General population exposure,7.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290229&GoCTemplateCulture=en-CA
 ",2019
-90230,CALGARY CENTRAL - INGLEWOOD,2425 9th Ave Se,Calgary,Alberta,51.0309,-114.0091,Parks,General population exposure,7.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290230&GoCTemplateCulture=en-CA
+90230,CALGARY CENTRAL - INGLEWOOD,2425 9th Ave Se,Calgary,Alberta,51.0309,-114.0091,Parks,General population exposure,7.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290230&GoCTemplateCulture=en-CA
 ",2019
-90235,CALGARY - VARSITY,3303 - 33 St. Nw,Calgary,Alberta,51.082655,-114.138827,Residential,General population exposure,6.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290235&GoCTemplateCulture=en-CA
+90235,CALGARY - VARSITY,3303 - 33 St. Nw,Calgary,Alberta,51.082655,-114.138827,Residential,General population exposure,6.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290235&GoCTemplateCulture=en-CA
 ",2019
-90302,RED DEER RIVERSIDE DRIVE,73 Street & Riverside Drive,Red Deer,Alberta,52.29867,-113.79352,Residential,General population exposure,6.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290302&GoCTemplateCulture=en-CA
+90302,RED DEER RIVERSIDE DRIVE,73 Street & Riverside Drive,Red Deer,Alberta,52.29867,-113.79352,Residential,General population exposure,6.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290302&GoCTemplateCulture=en-CA
 ",2019
-90304,RED DEER - LANCASTER,11 Lancaster Drive,Red Deer,Alberta,52.24095,-113.765439,Residential,Transportation source influenced,6.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290304&GoCTemplateCulture=en-CA
+90304,RED DEER - LANCASTER,11 Lancaster Drive,Red Deer,Alberta,52.24095,-113.765439,Residential,Transportation source influenced,6.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290304&GoCTemplateCulture=en-CA
 ",2019
-90402,CRESCENT HEIGHTS,12th St NW & Division Ave.,Medicine Hat,Alberta,50.04893,-110.68116,Residential,General population exposure,4.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290402&GoCTemplateCulture=en-CA
+90402,CRESCENT HEIGHTS,12th St NW & Division Ave.,Medicine Hat,Alberta,50.04893,-110.68116,Residential,General population exposure,4.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290402&GoCTemplateCulture=en-CA
 ",2019
-90502,LETHBRIDGE,2805 12 Ave N,Lethbridge,Alberta,49.71621,-112.8006,Industrial,General population exposure,5.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290502&GoCTemplateCulture=en-CA
+90502,LETHBRIDGE,2805 12 Ave N,Lethbridge,Alberta,49.71621,-112.8006,Industrial,General population exposure,5.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290502&GoCTemplateCulture=en-CA
 ",2019
-90601,FORT SASKATCHEWAN,9209a-96 Ave,Fort Saskatchewan,Alberta,53.69874,-113.22285,Residential,Transportation source influenced,8.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290601&GoCTemplateCulture=en-CA
+90601,FORT SASKATCHEWAN,9209a-96 Ave,Fort Saskatchewan,Alberta,53.69874,-113.22285,Residential,Transportation source influenced,8.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290601&GoCTemplateCulture=en-CA
 ",2019
-90606,BRUDERHEIM,,Bruderheim,Alberta,53.799988,-112.92781,Residential,Regional background,-,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290606&GoCTemplateCulture=en-CA
+90606,BRUDERHEIM,,Bruderheim,Alberta,53.799988,-112.92781,Residential,Regional background,-,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290606&GoCTemplateCulture=en-CA
 ",2019
-90609,BRUDERHEIM-1,5321 48 Street,Bruderheim,Alberta,53.805629,-112.925851,Open,General population exposure,8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290609&GoCTemplateCulture=en-CA
+90609,BRUDERHEIM-1,5321 48 Street,Bruderheim,Alberta,53.805629,-112.925851,Open,General population exposure,8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290609&GoCTemplateCulture=en-CA
 ",2019
-90701,ATHABASCA VALLEY-FORT MCMURRAY,Franklin Avenue,Fort Mcmurray,Alberta,56.73341,-111.39047,Water,General population exposure,6.1,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290701&GoCTemplateCulture=en-CA
+90701,ATHABASCA VALLEY-FORT MCMURRAY,Franklin Avenue,Fort Mcmurray,Alberta,56.73341,-111.39047,Water,General population exposure,6.1,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290701&GoCTemplateCulture=en-CA
 ",2019
-90702,PATRICIA MCINNES-FORT MCMURRAY,Timberlea Subdivision,Fort Mcmurray,Alberta,56.75139,-111.47662,Residential,General population exposure,6.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290702&GoCTemplateCulture=en-CA
+90702,PATRICIA MCINNES-FORT MCMURRAY,Timberlea Subdivision,Fort Mcmurray,Alberta,56.75139,-111.47662,Residential,General population exposure,6.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290702&GoCTemplateCulture=en-CA
 ",2019
-90801,BERTHA GANTER-FORT MCKAY,Main Street,Fort Mckay,Alberta,57.18941,-111.6405,Forested,Regional background,8.2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290801&GoCTemplateCulture=en-CA
+90801,BERTHA GANTER-FORT MCKAY,Main Street,Fort Mckay,Alberta,57.18941,-111.6405,Forested,Regional background,8.2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290801&GoCTemplateCulture=en-CA
 ",2019
-90805,BUFFALO VIEWPOINT,Buffalo Viewpoint,Fort Mckay,Alberta,56.99647,-111.59295,Industrial,Point source influenced,5.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290805&GoCTemplateCulture=en-CA
+90805,BUFFALO VIEWPOINT,Buffalo Viewpoint,Fort Mckay,Alberta,56.99647,-111.59295,Industrial,Point source influenced,5.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290805&GoCTemplateCulture=en-CA
 ",2019
-90806,SYNCRUDE UE1-FORT MCKAY SOUTH,,Fort Mckay,Alberta,57.1492,-111.6424,Forested,Point source influenced,6.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290806&GoCTemplateCulture=en-CA
+90806,SYNCRUDE UE1-FORT MCKAY SOUTH,,Fort Mckay,Alberta,57.1492,-111.6424,Forested,Point source influenced,6.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290806&GoCTemplateCulture=en-CA
 ",2019
-90808,STONY MOUNTAIN CONKLIN,1-33-076-08 W4,Conklin,Alberta,55.621408,-111.17269,Industrial,Regional background,5.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290808&GoCTemplateCulture=en-CA
+90808,STONY MOUNTAIN CONKLIN,1-33-076-08 W4,Conklin,Alberta,55.621408,-111.17269,Industrial,Regional background,5.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0290808&GoCTemplateCulture=en-CA
 ",2019
-91101,ELK ISLAND NATIONAL PARK,National Park,Elk Island,Alberta,53.68238,-112.86812,Water,Regional background,6.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0291101&GoCTemplateCulture=en-CA
+91101,ELK ISLAND NATIONAL PARK,National Park,Elk Island,Alberta,53.68238,-112.86812,Water,Regional background,6.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0291101&GoCTemplateCulture=en-CA
 ",2019
-91301,TOMAHAWK,SE 2 51 6 W5,Tomahawk,Alberta,53.37255,-114.76835,Agricultural,Regional background,5.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0291301&GoCTemplateCulture=en-CA
+91301,TOMAHAWK,SE 2 51 6 W5,Tomahawk,Alberta,53.37255,-114.76835,Agricultural,Regional background,5.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0291301&GoCTemplateCulture=en-CA
 ",2019
-91501,BEAVERLODGE,Beaverlodge Research Farm,Beaverlodge,Alberta,55.19634,-119.39682,Agricultural,Regional background,5.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0291501&GoCTemplateCulture=en-CA
+91501,BEAVERLODGE,Beaverlodge Research Farm,Beaverlodge,Alberta,55.19634,-119.39682,Agricultural,Regional background,5.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0291501&GoCTemplateCulture=en-CA
 ",2019
-91701,STEEPER,NE 12 48 22 W5,Steeper,Alberta,53.1325,-117.09111,Forested,Regional background,1.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0291701&GoCTemplateCulture=en-CA
+91701,STEEPER,NE 12 48 22 W5,Steeper,Alberta,53.1325,-117.09111,Forested,Regional background,1.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0291701&GoCTemplateCulture=en-CA
 ",2019
-91801,FORT CHIPEWYAN,Fort Chipewyan,Fort Chipewyan,Alberta,58.70879,-111.17683,Water,Regional background,5.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0291801&GoCTemplateCulture=en-CA
+91801,FORT CHIPEWYAN,Fort Chipewyan,Fort Chipewyan,Alberta,58.70879,-111.17683,Water,Regional background,5.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0291801&GoCTemplateCulture=en-CA
 ",2019
-91901,CAROLINE,16-30-034-5 W5,Caroline,Alberta,51.94687,-114.69744,Agricultural,Regional background,4.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0291901&GoCTemplateCulture=en-CA
+91901,CAROLINE,16-30-034-5 W5,Caroline,Alberta,51.94687,-114.69744,Agricultural,Regional background,4.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0291901&GoCTemplateCulture=en-CA
 ",2019
-92001,HENRY PIRKER STATION,10327 - 107 Avenue,Grande Prairie,Alberta,55.1766,-118.8078,Water,General population exposure,6.9,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0292001&GoCTemplateCulture=en-CA
+92001,HENRY PIRKER STATION,10327 - 107 Avenue,Grande Prairie,Alberta,55.1766,-118.8078,Water,General population exposure,6.9,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0292001&GoCTemplateCulture=en-CA
 ",2019
-92201,LAMONT,Rge Rd 203 & Twp Rd 550,Lamont,Alberta,53.76036,-112.88017,Agricultural,Regional background,6.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0292201&GoCTemplateCulture=en-CA
+92201,LAMONT,Rge Rd 203 & Twp Rd 550,Lamont,Alberta,53.76036,-112.88017,Agricultural,Regional background,6.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0292201&GoCTemplateCulture=en-CA
 ",2019
-92801,DRAYTON VALLEY,48 Ave,Drayton Valley,Alberta,53.220024,-114.984207,Residential,General population exposure,6.4,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0292801&GoCTemplateCulture=en-CA
+92801,DRAYTON VALLEY,48 Ave,Drayton Valley,Alberta,53.220024,-114.984207,Residential,General population exposure,6.4,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0292801&GoCTemplateCulture=en-CA
 ",2019
-92901,EDSON,7 Ave,Edson,Alberta,53.593771,-116.395822,Industrial,General population exposure,2,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0292901&GoCTemplateCulture=en-CA
+92901,EDSON,7 Ave,Edson,Alberta,53.593771,-116.395822,Industrial,General population exposure,2,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0292901&GoCTemplateCulture=en-CA
 ",2019
-93001,EVERGREEN PARK,,Evergreen Park,Alberta,55.1172,-118.7647,Forested,Regional background,5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0293001&GoCTemplateCulture=en-CA
+93001,EVERGREEN PARK,,Evergreen Park,Alberta,55.1172,-118.7647,Forested,Regional background,5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0293001&GoCTemplateCulture=en-CA
 ",2019
-93101,GENESEE,Range Road 15,Genesee,Alberta,53.3016,-114.2211,Agricultural,Regional background,6.5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0293101&GoCTemplateCulture=en-CA
+93101,GENESEE,Range Road 15,Genesee,Alberta,53.3016,-114.2211,Agricultural,Regional background,6.5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0293101&GoCTemplateCulture=en-CA
 ",2019
-93202,HINTON,Private Road,Hinton,Alberta,53.427301,-117.544067,Open,Regional background,7.6,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0293202&GoCTemplateCulture=en-CA
+93202,HINTON,Private Road,Hinton,Alberta,53.427301,-117.544067,Open,Regional background,7.6,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0293202&GoCTemplateCulture=en-CA
 ",2019
-93901,POWER,Range Road 35,Thorsby,Alberta,53.633,-114.4199,Agricultural,Regional background,5.7,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0293901&GoCTemplateCulture=en-CA
+93901,POWER,Range Road 35,Thorsby,Alberta,53.633,-114.4199,Agricultural,Regional background,5.7,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0293901&GoCTemplateCulture=en-CA
 ",2019
-94001,SMOKY HEIGHTS,Goodwin Road,Debolt,Alberta,55.402658,-118.280945,Agricultural,Regional background,6.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0294001&GoCTemplateCulture=en-CA
+94001,SMOKY HEIGHTS,Goodwin Road,Debolt,Alberta,55.402658,-118.280945,Agricultural,Regional background,6.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0294001&GoCTemplateCulture=en-CA
 ",2019
-94301,COLD LAKE SOUTH,15 Ave,Cold Lake,Alberta,54.414014,-110.232939,Residential,General population exposure,3.8,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0294301&GoCTemplateCulture=en-CA
+94301,COLD LAKE SOUTH,15 Ave,Cold Lake,Alberta,54.414014,-110.232939,Residential,General population exposure,3.8,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0294301&GoCTemplateCulture=en-CA
 ",2019
-94401,ST. LINA,,St Lina,Alberta,54.2165,-111.5026,Forested,Regional background,5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0294401&GoCTemplateCulture=en-CA
+94401,ST. LINA,,St Lina,Alberta,54.2165,-111.5026,Forested,Regional background,5,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0294401&GoCTemplateCulture=en-CA
 ",2019
-94601,ANZAC - WBEA,264 Stony Mountain Rd.,Anzac,Alberta,56.44928,-111.03722,Residential,Regional background,5.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=0294601&GoCTemplateCulture=en-CA
+94601,ANZAC - WBEA,264 Stony Mountain Rd.,Anzac,Alberta,56.44928,-111.03722,Residential,Regional background,5.3,micrograms per cubic metre (Âµg/m3),"http://indicators-map.canada.ca/App/Detail?id=0294601&GoCTemplateCulture=en-CA
 ",2019
