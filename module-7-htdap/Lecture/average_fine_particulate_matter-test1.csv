@@ -1,0 +1,3 @@
+﻿Station number,Station name,Address,City,Province,Latitude,Longitude,Local land use,Station type,Concentration,Units,Station details,Report year
+100103,NEW WESTMINSTER,Sherbrooke and Columbian Streets,New Westminster,British Columbia,49.227045,-122.894487,Residential,General population exposure,6.3,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100103&GoCTemplateCulture=en-CA",2019
+100110,KENSINGTON PARK,700 Hammarskjold Drive,Burnaby,British Columbia,49.279214,-122.970707,Residential,Transportation source influenced,4.5,micrograms per cubic metre (µg/m3),"http://indicators-map.canada.ca/App/Detail?id=02100110&GoCTemplateCulture=en-CA",2019
